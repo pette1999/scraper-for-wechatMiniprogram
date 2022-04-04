@@ -1,0 +1,447 @@
+rank#,admissionTotalNumber,school,学校,国家,isPublic
+1,22,Phillips Academy Andover,菲利普斯学校安多佛,美国,0
+2,53,The Hotchkiss School,霍奇科斯学校,美国,0
+3,12,Choate Rosemary Hall,乔特罗斯玛丽中学,美国,0
+4,13,Groton school,格罗顿学校,美国,0
+5,14,Phillips Exeter Academy,菲利普斯埃克塞特中学,美国,0
+6,3,Harvard-Westlake School,哈佛西湖中学,美国,0
+7,2,The Lawrenceville School,劳伦斯威尔高中,美国,0
+8,19,St. Paul's School,圣保罗中学,美国,0
+9,1,Noble and Greenough School,格里诺贵族学校,美国,0
+10,24,Deerfield Academy,迪尔菲尔德学院,美国,0
+11,36,Concord Academy,协和学院,美国,0
+12,1,The Davidson Academy,戴维森学院 ,美国,1
+13,4,The Bishop's School,毕夏普学校,美国,0
+14,4,The Loomis Chaffee School,鲁米斯查菲高中,美国,0
+15,6,Milton Academy,米尔顿高中,美国,0
+16,12,Cate School,凯特中学,美国,0
+17,1,Hopkins School,霍普金斯学校,美国,0
+18,7,Pingry School,宾格利学校,美国,0
+19,7,Cranbrook Schools,克瑞布鲁克中学,美国,0
+20,1,The Thacher School,撒切尔中学,美国,0
+21,24,Princeton International School of Mathematics and Science,人大附中美国分校	,美国,0
+22,45,St. Mark's  School,圣马克学校,美国,0
+23,6,Thomas Jefferson School,托马斯杰弗逊学校,美国,0
+24,5,The Quarry Lane School,库埃里兰学校,美国,0
+25,17,Lake Forest Academy,湖森中学,美国,0
+26,1,Bergen County Academies,伯根县学院,美国,0
+27,18,Westminster school,威斯敏斯特学院,美国,0
+28,1,Stuyvesant High School,史岱文森高中,美国,1
+29,6,Sage Hill School,圣人山学校,美国,0
+30,22,St. Andrews School（DE）,圣安德鲁斯中学,美国,0
+31,1,Cary Academy	,卡里学院,美国,0
+32,19,Peddie School,佩迪中学,美国,0
+33,23,Mercersburg Academy, 摩尔西斯堡中学,美国,0
+34,9,St.Alban’s School,圣奥尔本斯中学,美国,0
+35,5,American Heritage School,美利坚海瑞中学,美国,0
+36,23,Webb Schools,韦伯高中,美国,0
+37,28,The Taft School,塔夫特中学,美国,0
+38,14,The Hockaday School,霍卡迪女子学校,美国,0
+39,11,St. Stephen's Episcopal School,圣斯蒂芬教会学校,美国,0
+40,2,Adlai E Stevenson High School	,阿德莱·E·史蒂文森高中,美国,1
+41,2,Bryn Mawr School,布林茅尔女校,美国,0
+42,25,Emma Willard School, 艾玛威拉德女子中学,美国,0
+43,31,Kent School,肯特中学,美国,0
+44,15,The Madeira School,马德拉女子中学,美国,0
+45,3,The Rivers School,河流学校,美国,0
+46,2,The Waterford School,沃特福德学院,美国,0
+47,1,Whitney M Young Magnet High School,惠特尼杨精英高中,美国,0
+48,7,BASIS Independent Silicon Valley,贝赛思独立学校硅谷校区,美国,0
+49,14,Rutgers Prep School,罗格斯预备学校,美国,0
+50,17,Episcopal High School,主教中学,美国,0
+51,17,Pomfret School,庞弗雷特中学,美国,0
+52,1,Oakwood School,橡树林学校,美国,0
+53,26,Northfield Mount Hermon School,北野山高中,美国,0
+54,15,Princeton Day School,普林斯顿走读学校,美国,0
+55,16,The Baldwin School,鲍德温学院,美国,0
+56,20,Iolani School,伊奥拉尼学校,美国,0
+57,3,Jericho Senior High School,杰里科高中,美国,0
+58,17,Sierra Canyon School,塞拉峡谷高中,美国,0
+59,16,UWC 美国,,美国,0
+60,3,The Episcopal Academy,圣公会学院,美国,0
+61,18,Western Reserve Academy,西储学院,美国,0
+62,1,Landon School,兰登学校,美国,0
+63,3,The Stony Brook School,石溪中学,美国,0
+64,16,Great Neck South High School,长岛南大颈高中,美国,0
+65,7,Suffield Academy,萨菲尔德中学,美国,0
+66,14,The Hill School,希尔中学,美国,0
+67,4,Fairmont Preparatory Academy,费尔蒙特预科学院,美国,0
+68,1,Wardlaw-Hartridge School,沃德罗-哈特里奇学校,美国,0
+69,5,North Shore Country Day,北岸乡村学校,美国,0
+70,3,The Wheeler School,维勒学校,美国,0
+71,1,British International School of Chicago,芝加哥英国国际学校,美国,0
+72,1,Mounds Park Academy,芒兹帕克学校,美国,0
+73,23,The Masters School,迈斯特中学,美国,0
+74,1,King School,国王学校,美国,0
+75,8,Shady Side Academy,桑迪赛德学校,美国,0
+76,7,Henry M. Gunn High School,,美国,1
+77,33,Blair Academy,布莱尔学院,美国,0
+78,1,Syosset Senior High School,锡塞特高级中学,美国,1
+79,1,Mary Institute and Saint Louis Country Day School,玛丽圣路易斯中学,美国,0
+80,17,Georgetown Preparatory School,乔治城预科学校,美国,0
+81,5,Cushing Academy,库欣中学,美国,0
+82,1,The Village School,威利学校,美国,0
+83,2,Oregon Episcopal School,俄勒冈主教高中,美国,0
+84,23,Miss Porter's School,波特女子高中,美国,0
+85,27,George School,乔治学校,美国,0
+86,11,Brooks School,布鲁克斯学校,美国,0
+87,24,Annie Wright School,安妮怀特中学,美国,0
+88,12,Lexington High School,列克星敦高中,美国,0
+89,4,Basis Independent Brooklyn,贝赛思独立学校布鲁克林校区,美国,0
+90,5,Woodside Priory School,伍德赛德高中,美国,0
+91,7,Indian Springs School,印第安纳中学,美国,0
+92,6,York School,约克中学,美国,0
+93,4,Pacific Ridge School,太平洋里奇学校,美国,0
+94,5,Woodberry Forest School,乌德贝里森林学校,美国,0
+95,9,Salisbury School,梳士巴利学校,美国,0
+96,6,Stuart Country Day School,斯图亚特女校,美国,0
+97,3,Flint Hill School,弗林特山学校,美国,0
+98,12,Worcester Academy,伍斯特学院,美国,0
+99,8,Westtown School,西城中学,美国,0
+100,7,Garrison forest school,格瑞森林中学,美国,0
+101,5,Saint Mary's School,圣玛丽中学,美国,0
+102,12,Appleby College,爱普比学校,加拿大,0
+103,16,St. Anne's-Belfield School,圣安妮贝尔菲尔德学校,美国,0
+104,1,Baylor School,贝勒中学,美国,0
+105,55,Culver Academies,考沃尔中学,美国,0
+106,17,新加坡华侨中学,Hwa Chong Institution,新加坡,0
+107,5,Hamden Hall Country Day School ,哈姆登霍尔学校,美国,0
+108,11,Cape Henry Collegiate School,凯普亨瑞学院中学,美国,0
+109,21,The Pennington School,潘宁顿中学,美国,0
+110,19,Oaks Christian school,橡树基督教学校,美国,0
+111,12,Sandy Spring Friends School,珊帝泉友高中,美国,0
+112,33,Rabun Gap-Nacoochee School,冉本∙盖普照∙娜库奇中学,美国,0
+113,1,U.S.A. Veritas Prep School,美国威力塔斯学校,美国,0
+114,1,Gaston Day School,盖斯顿中学,美国,0
+115,8,King's Academy,约旦国王学院,其他,0
+116,1,Shattuck-St. Mary's School,嘉德圣玛丽高中,美国,0
+117,22,Cheshire Academy,柴郡中学,美国,0
+118,5,Cambridge school of Weston,威斯顿剑桥中学,美国,0
+119,5,Friends Central School,贵格会中央学校,美国,0
+120,8,Winston Churchill High School,温斯顿·丘吉尔高中,美国,0
+121,22,新加坡莱佛士初级学院RJC,Raffles Junior College,新加坡,0
+122,15,Trinity Pawling School,圣三一珀林中学,美国,0
+123,10,McCallie School,麦卡利男子中学,美国,0
+124,11,Virginia Episcopal School,弗吉尼亚主教中学,美国,0
+125,6,UWC 英国,,英国,0
+126,6,Canterbury School ,坎特伯雷中学,美国,0
+127,7,UWC 加拿大,,加拿大,0
+128,1,Tilton School,,美国,0
+129,1,Springside Chestnut Hill Academy,泉边栗树山学校,美国,0
+130,1,Saint John’s Preparatory School,圣约翰预备中学,美国,0
+131,3,Viewpoint School,理念学校,美国,0
+132,4,Miss Hall's school,霍尔女子学校,美国,0
+133,4,Thayer Academy,萨尔中学,美国,0
+134,5,Kimball Uniom Academy,金博联合学院,美国,0
+135,12,Darlington School,达林顿学校,美国,0
+136,14,Stevenson School,史蒂文森中学,美国,0
+137,4,Dana Hall School,达娜豪尔女子高中,美国,0
+138,2,Flintridge Sacred Heart Academy,福临特里奇圣心学院,美国,0
+139,4,Bellevue High School,贝尔维尤高中,美国,0
+140,4,UWC 新加坡,,新加坡,0
+141,1,Notre Dame High School,圣母高中,美国,0
+142,10,The Hun School of Princeton,普林斯顿胡恩中学,美国,0
+143,6,Thornton Academy,桑顿中学,美国,0
+144,1,Upper Canada College,上加拿大学院,加拿大,0
+145,1,The Bolles School,博尔斯学校,美国,0
+146,18,Wyoming Seminary College Preparatory School,怀俄明高级中学,美国,0
+147,7,Tower Hill School,塔山学校,美国,0
+148,6,Hamden Hall Country Day School,哈姆登霍尔学校,美国,0
+149,1,Stoneleigh-Burnham School,思德博翰女子学校,美国,0
+150,4,Westover School,威斯多佛学校,美国,0
+151,2,The Bishop Strachan School,斯特罗恩中学,美国,0
+152,17,Avon Old Farms School,亚凡古农场中学,美国,0
+153,4,Portsmouth Abbey School,朴茨茅斯修道院中学,美国,0
+154,26,St. George's School,圣乔治学校,美国,0
+155,6,Havergal College ,海福格尔学院,加拿大,0
+156,10,The Williston Northampton School,威利斯顿∙诺塞普顿中学,美国,0
+157,1,Skyline High School,天际线高中,美国,0
+158,3,Gould Academy,高德中学,美国,0
+159,1,Bishop Montgomery High School,蒙哥马利主教高中,美国,0
+160,1,Mercer Island High School,梅塞岛高中,美国,0
+161,1,University High School,大学附设中学,美国,0
+162,7,Villanova Preparatory School,维拉诺瓦高中,美国,0
+163,9,Linsly School,林斯里学校,美国,0
+164,1,St. Andrew's Episcopal School,圣安德鲁教堂学校-马里兰,美国,0
+165,3,North Broward Preparatory School,北布罗沃德预备学校,美国,0
+166,22,Tabor Academy,泰博学院,美国,0
+167,3,Greater Atlanta Christian school,亚特兰大基督教学院,美国,0
+168,1,Newport High School,纽波特中学,美国,0
+169,7,Abbey Cambridge College,阿贝学院剑桥分院,英国,0
+170,2,Saint Anthony's High School,美国圣安东尼高中,美国,0
+171,6,The Shipley School,费城希普利学校,美国,0
+172,2,Wycombe Abbey School,,美国,0
+173,6,Our Lady of Good Counsel High School,女子忠告高中,美国,0
+174,6,MillBrook School,米尔布鲁克学校,美国,0
+175,1,Dock Mennonite Academy,,美国,0
+176,2,Cape Cod Academy,科德中学	,美国,0
+177,12,Forest Ridge School Of The Sacred Heart,,美国,0
+178,9,Palos Verdes Peninsula High School,帕洛斯维第斯半岛高中,美国,0
+179,2,Academy of Our Lady of Mercy,仁慈圣母学院,美国,0
+180,1,San Domenico School,圣多明尼哥中学,美国,0
+181,6,北京达罗捷派学校,,中国,0
+182,6,新加坡华中国际学校,,新加坡,0
+183,1,Santa Catalina School,圣卡塔利娜学校,美国,0
+184,3,Chatham Hall,查塔姆霍尔学校,美国,0
+185,11,Watchung Hills High school,,美国,0
+186,1,The Bullis School,布利斯学校,美国,0
+187,8,JSerra Catholic High School,詹赛瑞天主教高中,美国,0
+188,7,Maumee Valley Country Day School,莫米谷走读中学,美国,0
+189,1,Saint John Vianney High Sschool,,美国,0
+190,2,The Williams School,威廉姆斯学校,美国,0
+191,1,St. Croix Lutheran Academy,圣克罗伊信义学校,美国,0
+192,1,新加坡美国国际学校,,新加坡,0
+193,1,The Seven Hills School,,美国,0
+194,1,Gilmour Academy,,美国,0
+195,6,The Northwest School,,美国,0
+196,3,新加坡英华自主学校,,新加坡,0
+197,12,Catholic Memorial School,,美国,0
+198,4,The Putney School,帕特尼中学,美国,0
+199,19,The Governor's Academy,,美国,0
+200,1,Forsyth Country Day School,,美国,0
+201,1,Harriton High School,,美国,0
+202,1,The Frederick Gunn School,,美国,0
+203,7,Aquinas International Academy,,美国,0
+204,6,Ranney School,,美国,0
+205,4,Archbishop Ryan High School,Archbishop Ryan High School,美国,0
+206,1,Miller School of Albemade,,美国,0
+207,4,Grier School,,美国,0
+208,3,Malden Catholic High School,,美国,0
+209,4,New Hampton School,新汉普顿中学,美国,0
+210,1,The Episcopal School of Texas,,美国,0
+211,3,Wilbraham and Monson Academy,韦伯拉汉·莫森中学,美国,0
+212,6,Canterbury School FortMyers,,美国,0
+213,2,Kristin School,,美国,0
+214,2,Staten Island Academy,,美国,0
+215,9,Lord Byng Secondary School,,美国,0
+216,9,Georgiana Bruce Kirby Preparatory School,,美国,0
+217,6,Holderness School,,美国,0
+218,1,Southwestern Academy,,美国,0
+219,5,Allendale Columbia School,,美国,0
+220,2,Princeton High School,,美国,0
+221,2,Verde Valley School,,美国,0
+222,2,Seaquam Secondary School,,美国,0
+223,1,William P Clements High School,,美国,0
+224,1,San Joaquin Memorial High School,,美国,0
+225,7,Bishop Ready High School,,美国,0
+226,4,Warwick School,,英国,0
+227,2,St. Paul's School for Boys,,美国,0
+228,3,Reed Henderson High School,Reed Henderson High School,美国,0
+229,15,Frankfurt International School,Frankfurt International School,德国,0
+230,8,Winchester High School	,Winchester High School	,美国,1
+231,10,Santa Margarita Catholic High School,,美国,0
+232,1,Friends Select School,,美国,0
+233,1,Lexington Christian Academy,,美国,0
+234,1,Pacific Academy,,美国,0
+235,6,Berkshire School,,美国,0
+236,1,Delaware County Christian School,,美国,0
+237,2,La Salle College High School,,美国,0
+238,2,Strath Haven High School,Strath Haven High School,美国,0
+239,6,St Stephen's School,St Stephen's School,美国,0
+240,5,Brookfield academy,,美国,0
+241,1,The Storm King School,,美国,0
+242,2,The Derryfield school,,美国,0
+243,11,Mulgrave School,,美国,0
+244,7,Western Christian High School,,美国,0
+245,3,Charter School of Wilmington,,美国,0
+246,10,Montgomery High School,,美国,0
+247,1,Woodbridge High School,,美国,0
+248,4,Tallulah Falls School,,美国,0
+249,2,McLean High School,,美国,0
+250,1,Montverde Academy,蒙特沃德学院,美国,0
+251,4,Christchurch School,,美国,0
+252,2,Mater Dei High School,,美国,0
+253,7,Southlands Christian High School,,美国,0
+254,3,Lowell High School,,美国,0
+255,1,Great Valley High School,,美国,0
+256,2,Fort Hamilton High School,,美国,0
+257,1,Cape Fear Academy,,美国,0
+258,9,Chaminade College Preparatory,,美国,0
+259,1,Aragon High school,,美国,0
+260,3,la salle academy,la salle academy,美国,0
+261,3,Roycemore School,Roycemore School,美国,0
+262,4,Covenant Christian High School,Covenant Christian High School,美国,0
+263,4,Cupertino High School,,美国,1
+264,2,Green Hill School	,Green Hill School	,美国,0
+265,2,Grand Rapids Christian High School,Grand Rapids Christian High School,美国,1
+266,10,South Hills Academy,South Hills Academy,美国,1
+267,16,Asheville School,阿什维尔学校,美国,1
+268,2,Northwood High School,,美国,1
+269,1,Cascia Hall Preparatory School,,美国,0
+270,1,Semiahmoo Secondary,,美国,0
+271,2,Benjamin School,Benjamin School,美国,0
+272,1,Gunnery,,美国,0
+273,9,The Ethel Walker School,艾索沃克女子高中,美国,0
+274,1,Brimmer and May,,美国,0
+275,1,Wellesley High School,,美国,0
+276,5,South Kent School,,美国,0
+277,1,St. Louis Universion High School,,美国,0
+278,3,St. Michaels University School,St. Michaels University School,美国,0
+279,5,Morgan Park Academy,Morgan Park Academy,美国,0
+280,5,The Harvey School,,美国,0
+281,7,Vivian Webb School,,美国,0
+282,10,West Windsor High School	,West Windsor High School	,美国,1
+283,1,Asheville School,,美国,0
+284,3,Gunn High School,,美国,0
+285,1,Arcadia High School,,美国,0
+286,1,Newton South High School,,美国,0
+287,5,Albany Academies,,美国,0
+288,1,Newton North High School,,美国,0
+289,2,Army & Navy Academy,,美国,0
+290,3,Portledge School,,美国,0
+291,1,Fontbonne Academy,,美国,0
+292,6,Windermere Preparatory School,,美国,0
+293,6,Sewickley Academy,,美国,0
+294,1,Scarsdale High School,,美国,0
+295,5,Northwest Catholic High School,,美国,0
+296,1,Lancaster Catholic High School,,美国,0
+297,9,Roland Park Country School,,美国,0
+298,7,新加坡立化中学,,新加坡,0
+299,6,Conestoga Senior High School,,美国,0
+300,3,Community School of Naples,,美国,0
+301,5,Millburn High School,,美国,0
+302,1,Moorestown Friends School,,美国,0
+303,3,The Steward School,,美国,0
+304,1,Crean Lutheran High School,,美国,0
+305,3,Wellington Secondary College,Wellington Secondary College,澳大利亚,0
+306,4,"The King's School, Canterbury",坎特伯雷国王学校,英国,0
+307,1,North Cross School,North Cross School ,美国,0
+308,1,Prince of Wales Secondary School,Prince of Wales Secondary School,加拿大,0
+309,2,Wayland Academy,wayland academy,美国,0
+310,1,Hatboro-Horsham High Schoo,Hatboro-Horsham High Schoo,美国,0
+311,1,Lower Canada College,Lower Canada College,加拿大,0
+312,1,Greenwood Laboratory School,Greenwood Laboratory School,美国,0
+313,5,The Waldorf School of Garden City,,美国,0
+314,1,Oldfields School,Oldfields School,美国,0
+315,4,Weston high school,Weston high school,美国,0
+316,1,Sino Bright School ,Sino Bright School ,加拿大,0
+317,1,Thomas Spring Wooton High School,Thomas Spring Wooton High School,美国,0
+318,3,Bayview Secondary School,Bayview Secondary School,加拿大,0
+319,2,Eastlake High School,Eastlake High School,美国,0
+320,1,Archbishop John Carroll High School,Archbishop John Carroll High School,美国,0
+321,1,Shipley School,Shipley School,美国,0
+322,2,St. Michael's College School,St. Michael's College School,加拿大,0
+323,1,East Chapel Hill High School,East Chapel Hill High School,美国,0
+324,1,Falmouth Academy,Falmouth Academy,美国,0
+325,1,Kambala School,Kambala School,澳大利亚,0
+326,1,Obra Tompkins High School,Obra Tompkins High School,美国,0
+327,6,Valparaiso High School,Valparaiso High School,美国,0
+328,3,Xavier High School	,Xavier High School	,美国,1
+329,2,Heritage Christian Academy,,美国,0
+330,1,Yorba Linda High School	,Yorba Linda High School	,美国,1
+331,1,Judge Memorial Catholic High School	,Judge Memorial Catholic High School	,美国,1
+332,1,Troy High School,Troy High School,美国,1
+333,1,Rocky River High School	,,美国,1
+334,1,Queens High School for the Sciences at York College	,Queens High School for the Sciences at York College	,美国,1
+335,1,Forest Hill High School	,Forest Hill High School	,美国,1
+336,1,Alfred-Almond Central High School	,Alfred-Almond Central High School	,美国,1
+337,9,Neuqua Valley High School	,Neuqua Valley High School	,美国,1
+338,4,Midwood High School	,Midwood High School	,美国,1
+339,1,Chaparral High School	,Chaparral High School	,美国,1
+340,1,Albert Einstein High School	,Albert Einstein High School	,美国,1
+341,1,Fox Valley Lutheran High School	,Fox Valley Lutheran High School	,美国,1
+342,1,Woodlands Academy of the Sacred Heart,Woodlands Academy of the Sacred Heart,美国,0
+343,5,在家自学,Homechooled CEEB: 970000,未知,0
+344,5,Cheltenham Ladies' College,Cheltenham Ladies' College,英国,0
+345,5,Broadwater Academy,Broadwater Academy,美国,0
+346,1,Saline High School,Saline High School,美国,0
+347,3,Wilmington Friends School,Wilmington Friends School,美国,0
+348,4,American School of Warsaw	,American School of Warsaw	,美国,0
+349,5,La Canada High School	,La Canada High School	,美国,1
+350,3,Enloe High School	,,美国,1
+351,3,Dougherty Valley High School	,Dougherty Valley High School	,美国,1
+352,5,Northview High School,Northview High School,美国,1
+353,2,Capistrano Valley Christian School,Capistrano Valley Christian School,美国,0
+354,1,Bur Oak Secondary School,,加拿大,0
+355,1,Greenwich Country Day School,Greenwich Country Day School,美国,0
+356,5,Riverside High School,Riverside High School,美国,1
+357,9,St. Michaels School,,美国,0
+358,1,Rosseau Lake College,Rosseau Lake College,加拿大,0
+359,2,Boston Latin School,,美国,0
+360,11,Ribet Academy,Ribet Academy,美国,0
+361,3,The Linsley School,,美国,0
+362,1,Grace Christian Academy,,美国,0
+363,7,IMG Academy,,美国,0
+364,8,The Gunnery,,美国,0
+365,4,新加坡德明政府中学,,新加坡,0
+366,1,Maranatha High School,,未知国家,0
+367,3,Proctor Academy,Proctor Academy,美国,0
+368,3,The Presbyterian Ladies' College,,未知国家,0
+369,9,Linfield Christian school,,美国,0
+370,1,Milbrook Academy,,美国,0
+371,4,Newark High School,,美国,0
+372,7,Damien High School,,美国,0
+373,11,Valley Christian High School,,美国,0
+374,6,Portola High School,,美国,0
+375,1,Westborough High School,,美国,0
+376,1,Justin-Siena High School,,美国,0
+377,5,Academy for Allied Health Science,,美国,0
+378,1,Sacred Heart Academy,,美国,0
+379,2,Blair High School,,美国,0
+380,2,IL Texas- Garland High School,,美国,0
+381,1,Albany High School,Albany High School,美国,0
+382,7,Benenden School,Benenden School,英国,0
+383,2,Laurel School ,Laurel School ,美国,0
+384,4,Clements High School,Clements High School,美国,1
+385,10,Jesuit High School,Jesuit High School,美国,1
+386,2,The American School Foundation,The American School Foundation,其他,0
+387,1,Fukuoka International School,Fukuoka International School,其他,0
+388,4,Horace Greeley High School ,,美国,1
+389,1,Saint Cuthbert's College,Saint Cuthbert's College,其他,0
+390,1,Southcrest Christian School,Southcrest Christian School,美国,1
+391,9,California Academy of Math & Science,California Academy of Math & Science,美国,1
+392,1,Holy Trinity Episcopal Academy,Holy Trinity Episcopal Academy,美国,0
+393,3,Carlmont High School,Carlmont High School,美国,1
+394,6,Lynbrook High School,林布鲁克高中,美国,1
+395,1,Our Lady of the Lake Catholic School,,美国,0
+396,3,Point Grey Secondary School,灰点中学,加拿大,1
+397,6,Ready Global Academy ,Ready Global Academy ,美国,0
+398,5,Saint Andrew's School （FL）,圣安德鲁学校,美国,0
+399,6,Diamond Bar High School,Diamond Bar High School,美国,1
+400,2,Interlake High School,Interlake High School,美国,1
+401,12,The Webb School（TN）,韦伯中学,美国,0
+402,9, Fountain Valley School of Colorado,科罗拉多喷泉谷学校 ,美国,0
+403,1,"Park Tudor School, IN",帕克都铎學校,美国,0
+404,5,Allen Academy,阿伦学院,美国,0
+405,3,Mentor College	,曼特学院,加拿大,0
+406,4,Timpview High  Shool,泰姆维尤高中,美国,1
+407,2,Cannon School NC,加农中学,美国,0
+408,1,Grace Community High School,格雷丝社区高中,美国,0
+409,7,Heidelberg International School,海德堡国际学校,德国,0
+410,1,High Bluff Academy,高崖学院,美国,0
+411,1,St. John's Preparatory School ,圣约翰大学预备学校,美国,0
+412,6,Saint John’s School （South Africa）,南非圣约翰,其他,0
+413,5,The Columbus Academy,哥伦布学院,美国,0
+414,3,Eton College,伊顿公学,英国,0
+415,1,新加坡淡马锡初级学院,Temasek Junior College,新加坡,1
+416,5,Highland Park High School,海兰帕克高中,美国,0
+417,3,Crofton House School,克柔芙顿中学,加拿大,0
+418,2,Holy Trinity School,圣三一学校,加拿大,0
+419,2,Tonbridge School,汤布里奇公学,英国,0
+420,1,Pilgrim School,佩格姆中学,美国,0
+421,1,Maranatha Christian School,玛拉那瑟基督学校,美国,0
+422,1,Hillfield Strathallan College,希尔菲尔德学院,美国,0
+423,1,Immaculate High School,伊麦克莱特高中,美国,0
+424,9,New York Special High School,New York Special High School,美国,0
+425,1,Pickering College,匹克林学院,加拿大,0
+426,3,Burgen County Academy,布尔根县学院,美国,0
+427,4,International School of Prague,布拉格国际学校,其他,1
+428,4,Issaquah High School ,伊萨夸高中,美国,1
+429,2,Bridgewater-Raritan High School,桥水-拉里坦高中,美国,1
+430,1,Mesa Grande Academy,梅沙葛兰岱学校,美国,0
+431,2,Oundle School,奥多中学,英国,1
+432,6,Markville Secondary School,马克维尔高级中学,加拿大,1
+433,1,Baradene College of the Sacred Heart,巴拉德尼圣心学院,其他,1
+434,1,Charlotte Catholic High School,夏洛特天主教高中,美国,1
+435,4,Unionsville High School,Unionsville High School,美国,0
+436,1,"Curtis Senior High School, WA",Curtis Senior High School,美国,0
+437,2,Oxbridge Academy,津桥学校 ,美国,0
+438,1,Chinese International School Manila,马尼拉中华国际学校,其他,0
+439,1,George Walton High School,乔治亚沃顿高中,美国,1
+440,5,Texas Academy of Mathematics and Science,Texas Academy of Mathematics and Science,美国,1
+441,1,Ramona Convent Secondary School,拉蒙娜女校,美国,0
+442,3,North Toronto Collegiate Institute,多伦多学院,加拿大,1
+443,2,Bishop stranchan school,斯特罗恩中学,加拿大,0
+444,1,The Prestige School,普莱斯蒂学校,法国,0
+445,3,River Hill High School,River Hill High School,美国,0
+446,4,St. Stephen's School,圣史帝芬学校（意大利罗马）,其他,0
