@@ -1,5 +1,6 @@
 import json
 import csv
+import os
 
 def writeToFile(filename, data):
     with open(filename, 'a', encoding='utf-8-sig') as f:
@@ -7,7 +8,18 @@ def writeToFile(filename, data):
         # write the data
         writer.writerow(data)
 
+def removeJsonFile(filePath):
+    if os.path.exists(filePath):
+        os.remove(filePath)
+    else:
+        print("Can not delete the file as it doesn't exists")
+
+def clearCSVfile(filename, header):
+    os.remove(filename)
+    createCSV(filename, header)
+
 def writeCollege(filename):
+    clearCSVfile(filename, ['rank#','admissionTotalNumber','University','University','isPiublic','website'])
     f = open('./data/json/colleges.json')
     # returns JSON object as
     # a dictionary
@@ -24,6 +36,7 @@ def writeCollege(filename):
         writeToFile(filename,d)
 
 def writeChineseHighSchool(filename):
+    clearCSVfile(filename, ['rank#','admissionTotalNumber','学校','城市','service'])
     f = open('./data/json/chineseHighSchools.json')
     data = json.load(f)
 
@@ -37,6 +50,7 @@ def writeChineseHighSchool(filename):
         writeToFile(filename, d)
 
 def writeInternationalHighSchool(filename):
+    clearCSVfile(filename, ['rank#','admissionTotalNumber','school','学校','国家','isPublic'])
     f = open('./data/json/internationalHighSchools.json')
     data = json.load(f)
     for i in data:
@@ -50,6 +64,7 @@ def writeInternationalHighSchool(filename):
         writeToFile(filename, d)
 
 def writeAdvisors(filename):
+    clearCSVfile(filename, ['rank#','机构','offers','城市','svLevelTitle','电话','地址','service','special','wechat'])
     f = open('./data/json/advisors.json')
     data = json.load(f)
     for i in data:
@@ -65,5 +80,3 @@ def writeAdvisors(filename):
         d.append(i['adviser'].get('special'))
         d.append(i['adviser'].get('wechat'))
         writeToFile(filename, d)
-
-writeAdvisors('./data/csv/advisors.csv')

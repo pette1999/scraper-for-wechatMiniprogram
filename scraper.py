@@ -2,6 +2,8 @@ import requests
 from requests.structures import CaseInsensitiveDict
 from tqdm import tqdm
 import json
+import helper
+import os
 
 headers = CaseInsensitiveDict()
 headers["Host"] = "meiben666.com"
@@ -18,9 +20,12 @@ def grabColleges():
         resp = requests.post(url, headers=headers, data=data)
         for i in resp.json().get('rankList'):
             colleges.append(i)
-    # print(colleges)
+    # Clean up the json file
+    helper.removeJsonFile('./data/json/colleges.json')
     with open('./data/json/colleges.json', 'w', encoding='utf-8') as f:
         json.dump(colleges, f, ensure_ascii=False, indent=2)
+    # write data to csv file
+    helper.writeCollege('./data/csv/colleges.csv')
 
 def grabChinaHighSchools():
     url = 'https://meiben666.com/api/mb/rank/highSchoolRank'
@@ -30,8 +35,11 @@ def grabChinaHighSchools():
         resp = requests.post(url, headers=headers, data=data)
         for i in resp.json().get('rankList'):
             highschools.append(i)
+    # Clean up the json file
+    helper.removeJsonFile('./data/json/chineseHighSchools.json')
     with open('./data/json/chineseHighSchools.json', 'w', encoding='utf-8') as f:
         json.dump(highschools, f, ensure_ascii=False, indent=2)
+    helper.writeChineseHighSchool('./data/csv/chineseHighSchools.csv')
 
 def grabInternationalHighSchools():
     url = 'https://meiben666.com/api/mb/rank/highSchoolRank'
@@ -41,8 +49,11 @@ def grabInternationalHighSchools():
         resp = requests.post(url, headers=headers, data=data)
         for i in resp.json().get('rankList'):
             international.append(i)
+    # Clean up the json file
+    helper.removeJsonFile('./data/json/internationalHighSchools.json')
     with open('./data/json/internationalHighSchools.json', 'w', encoding='utf-8') as f:
         json.dump(international, f, ensure_ascii=False, indent=2)
+    helper.writeInternationalHighSchool('./data/csv/internationalHighSchools.csv')
 
 def grabAdvisors():
     url = 'https://meiben666.com/api/mb/rank/adviserRank'
@@ -52,8 +63,8 @@ def grabAdvisors():
         resp = requests.post(url, headers=headers, data=data)
         for i in resp.json().get('rankList'):
             advisors.append(i)
+    # Clean up the json file
+    helper.removeJsonFile('./data/json/advisors.json')
     with open('./data/json/advisors.json', 'w', encoding='utf-8') as f:
         json.dump(advisors, f, ensure_ascii=False, indent=2)
-
-
-grabAdvisors()
+    helper.writeAdvisors('./data/csv/advisors.csv')
