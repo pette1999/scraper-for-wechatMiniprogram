@@ -2,6 +2,11 @@ import json
 import csv
 import os
 
+def createCSV(filename, header):
+    with open(filename, 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(header)
+        
 def writeToFile(filename, data):
     with open(filename, 'a', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
@@ -15,8 +20,11 @@ def removeJsonFile(filePath):
         print("Can not delete the file as it doesn't exists")
 
 def clearCSVfile(filename, header):
-    os.remove(filename)
-    createCSV(filename, header)
+    try:
+        os.remove(filename)
+        createCSV(filename, header)
+    except:
+        pass
 
 def writeCollege(filename):
     clearCSVfile(filename, ['rank#','admissionTotalNumber','University','University','isPiublic','website'])
