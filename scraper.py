@@ -44,5 +44,16 @@ def grabInternationalHighSchools():
     with open('./data/json/internationalHighSchools.json', 'w', encoding='utf-8') as f:
         json.dump(international, f, ensure_ascii=False, indent=2)
 
+def grabAdvisors():
+    url = 'https://meiben666.com/api/mb/rank/adviserRank'
+    advisors = []
+    for j in tqdm(range(13)):
+        data = '{"openid":1,"year":"2022","offerLabel":"","eduLevel":"bk","pn":' + str(j+1) + ',"size":15,"comProvinceId":"0","collegeContryId":"0","queryString":""}'
+        resp = requests.post(url, headers=headers, data=data)
+        for i in resp.json().get('rankList'):
+            advisors.append(i)
+    with open('./data/json/advisors.json', 'w', encoding='utf-8') as f:
+        json.dump(advisors, f, ensure_ascii=False, indent=2)
 
-grabInternationalHighSchools()
+
+grabAdvisors()

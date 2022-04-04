@@ -39,7 +39,6 @@ def writeChineseHighSchool(filename):
 def writeInternationalHighSchool(filename):
     f = open('./data/json/internationalHighSchools.json')
     data = json.load(f)
-
     for i in data:
         d = []
         d.append(i['sortNumber'])
@@ -50,5 +49,21 @@ def writeInternationalHighSchool(filename):
         d.append(i['highSchool'].get('isPublic'))
         writeToFile(filename, d)
 
+def writeAdvisors(filename):
+    f = open('./data/json/advisors.json')
+    data = json.load(f)
+    for i in data:
+        d = []
+        d.append(i['sortNumber'])
+        d.append(i['adviser'].get('title'))
+        d.append(i['adviser'].get('offers'))
+        d.append(i['adviser'].get('svCityName'))
+        d.append(i['adviser'].get('svLevelTitle'))
+        d.append(i['adviser'].get('telPhone'))
+        d.append(i['adviser'].get('address'))
+        d.append(i['adviser'].get('service'))
+        d.append(i['adviser'].get('special'))
+        d.append(i['adviser'].get('wechat'))
+        writeToFile(filename, d)
 
-writeInternationalHighSchool('./data/csv/internationalHighSchools.csv')
+writeAdvisors('./data/csv/advisors.csv')
