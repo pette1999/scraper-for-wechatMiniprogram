@@ -4,6 +4,7 @@ from tqdm import tqdm
 import json
 import helper
 import os
+import time
 
 headers = CaseInsensitiveDict()
 headers["Host"] = "meiben666.com"
@@ -17,9 +18,12 @@ def grabColleges():
     colleges = []
     for j in tqdm(range(20)):
         data = '{"openid":1,"year":"2022","collegeContryId":"0","collegeLabel":"","eduLevel":"bk","offerType":"ALL","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"comProvinceId":"0","queryString":""}'
-        resp = requests.post(url, headers=headers, data=data)
-        for i in resp.json().get('rankList'):
-            colleges.append(i)
+        try:
+            resp = requests.post(url, headers=headers, data=data)
+            for i in resp.json().get('rankList'):
+                colleges.append(i)
+        except:
+            pass
     # Clean up the json file
     helper.removeJsonFile('./data/json/colleges.json')
     with open('./data/json/colleges.json', 'w', encoding='utf-8') as f:
@@ -32,9 +36,12 @@ def grabChinaHighSchools():
     highschools = []
     for j in tqdm(range(30)):
         data = '{"openid":1,"highSchoolContry":1,"offerLabel":"","year":"2022","pn":' + str(j+1) + ',"size":15,"childPn":1,"eduLevel":"bk","childSize":3,"comProvinceId":"0","queryString":""}'
-        resp = requests.post(url, headers=headers, data=data)
-        for i in resp.json().get('rankList'):
-            highschools.append(i)
+        try:
+            resp = requests.post(url, headers=headers, data=data)
+            for i in resp.json().get('rankList'):
+                highschools.append(i)
+        except:
+            pass
     # Clean up the json file
     helper.removeJsonFile('./data/json/chineseHighSchools.json')
     with open('./data/json/chineseHighSchools.json', 'w', encoding='utf-8') as f:
@@ -46,9 +53,12 @@ def grabInternationalHighSchools():
     international = []
     for j in tqdm(range(30)):
         data = '{"openid":1,"highSchoolContry":2,"offerLabel":"","year":"2022","pn":' + str(j+1) + ',"size":15,"childPn":1,"eduLevel":"bk","childSize":3,"comProvinceId":"0","queryString":""}'
-        resp = requests.post(url, headers=headers, data=data)
-        for i in resp.json().get('rankList'):
-            international.append(i)
+        try:
+            resp = requests.post(url, headers=headers, data=data)
+            for i in resp.json().get('rankList'):
+                international.append(i)
+        except:
+            pass
     # Clean up the json file
     helper.removeJsonFile('./data/json/internationalHighSchools.json')
     with open('./data/json/internationalHighSchools.json', 'w', encoding='utf-8') as f:
@@ -58,13 +68,62 @@ def grabInternationalHighSchools():
 def grabAdvisors():
     url = 'https://meiben666.com/api/mb/rank/adviserRank'
     advisors = []
-    for j in tqdm(range(13)):
+    for j in tqdm(range(15)):
         data = '{"openid":1,"year":"2022","offerLabel":"","eduLevel":"bk","pn":' + str(j+1) + ',"size":15,"comProvinceId":"0","collegeContryId":"0","queryString":""}'
-        resp = requests.post(url, headers=headers, data=data)
-        for i in resp.json().get('rankList'):
-            advisors.append(i)
+        try:
+            resp = requests.post(url, headers=headers, data=data)
+            for i in resp.json().get('rankList'):
+                advisors.append(i)
+        except:
+            pass
     # Clean up the json file
     helper.removeJsonFile('./data/json/advisors.json')
     with open('./data/json/advisors.json', 'w', encoding='utf-8') as f:
         json.dump(advisors, f, ensure_ascii=False, indent=2)
     helper.writeAdvisors('./data/csv/advisors.csv')
+
+def grabChineseHighDetails():
+    # grabChinaHighSchools()
+    url = 'https://meiben666.com/api/mb/rank/offerListByHighSchool'
+    school_details = []
+    ids = helper.readCol('./data/csv/chineseHighSchools.csv', 'id')
+    for i in tqdm(ids):
+        time.sleep(1)
+        details = []
+        for j in tqdm(range(10)):
+            data = '{"openid":1,"highSchoolId":"' + i + '","year":"2022","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"1","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
+            try:
+                resp = requests.post(url, headers=headers, data=data)
+                for k in resp.json().get('rankList'):
+                    details.append(k)
+            except:
+                pass
+        school_details.append(details)
+    # Clean up the json file
+    helper.removeJsonFile('./data/json/chineseHighDetails.json')
+    with open('./data/json/chineseHighDetails.json', 'w', encoding='utf-8') as f:
+        json.dump(school_details, f, ensure_ascii=False, indent=2)
+
+def grabInternationalHighDetails():
+    grabInternationalHighSchools()
+    url = 'https://meiben666.com/api/mb/rank/offerListByHighSchool'
+    school_details = []
+    ids = helper.readCol('./data/csv/internationalHighSchools.csv', 'id')
+    for i in tqdm(ids):
+        time.sleep(1)
+        details = []
+        for j in tqdm(range(5)):
+            data = '{"openid":1,"highSchoolId":"' + i + '","year":"2022","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"2","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
+            try:
+                resp = requests.post(url, headers=headers, data=data)
+                for k in resp.json().get('rankList'):
+                    details.append(k)
+            except:
+                pass
+        school_details.append(details)
+    helper.removeJsonFile('./data/json/internationalHighDetails.json')
+    with open('./data/json/internationalHighDetails.json', 'w', encoding='utf-8') as f:
+        json.dump(school_details, f, ensure_ascii=False, indent=2)
+
+
+grabInternationalHighDetails()

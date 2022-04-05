@@ -1,8 +1,6 @@
 [
   {
-    "offerId": 44138,
     "sortNumber": 1,
-    "admissionTotalNumber": 22,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -29,7 +27,7 @@
       "vipLevel": 1,
       "isPublic": 0,
       "svAuditName": "已通过",
-      "countGood": 43,
+      "countGood": 44,
       "updateUser": "张少噗",
       "oldId": 401,
       "svProvinceName": "不适用",
@@ -38,12 +36,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 22,
+    "offerId": 44138
   },
   {
-    "offerId": 46194,
     "sortNumber": 2,
-    "admissionTotalNumber": 53,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -70,7 +68,7 @@
       "vipLevel": 1,
       "isPublic": 0,
       "svAuditName": "已通过",
-      "countGood": 40,
+      "countGood": 41,
       "updateUser": "张少噗",
       "oldId": 628,
       "svProvinceName": "不适用",
@@ -79,12 +77,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 53,
+    "offerId": 46194
   },
   {
-    "offerId": 44378,
     "sortNumber": 3,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -121,12 +119,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44378
   },
   {
-    "offerId": 44369,
     "sortNumber": 4,
-    "admissionTotalNumber": 13,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -162,12 +160,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 13,
+    "offerId": 44369
   },
   {
-    "offerId": 45578,
     "sortNumber": 5,
-    "admissionTotalNumber": 14,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -204,12 +202,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 14,
+    "offerId": 45578
   },
   {
-    "offerId": 50087,
     "sortNumber": 6,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -245,12 +243,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 50087
   },
   {
-    "offerId": 46527,
     "sortNumber": 7,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -286,12 +284,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46527
   },
   {
-    "offerId": 45775,
     "sortNumber": 8,
-    "admissionTotalNumber": 19,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -328,12 +326,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 19,
+    "offerId": 45775
   },
   {
-    "offerId": 47943,
     "sortNumber": 9,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -369,12 +367,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 47943
   },
   {
-    "offerId": 47825,
     "sortNumber": 10,
-    "admissionTotalNumber": 24,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -410,12 +408,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 24,
+    "offerId": 47825
   },
   {
-    "offerId": 45786,
     "sortNumber": 11,
-    "admissionTotalNumber": 36,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -452,12 +450,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 36,
+    "offerId": 45786
   },
   {
-    "offerId": 57797,
     "sortNumber": 12,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -492,12 +490,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 57797
   },
   {
-    "offerId": 51623,
     "sortNumber": 13,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -535,12 +533,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 51623
   },
   {
-    "offerId": 44363,
     "sortNumber": 14,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -576,12 +574,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44363
   },
   {
-    "offerId": 45579,
     "sortNumber": 15,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -617,12 +615,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 45579
   },
   {
-    "offerId": 48996,
     "sortNumber": 16,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -658,12 +656,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 48996
   },
   {
-    "offerId": 48290,
     "sortNumber": 17,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -699,12 +697,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48290
   },
   {
-    "offerId": 48933,
     "sortNumber": 18,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -743,12 +741,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 48933
   },
   {
-    "offerId": 45732,
     "sortNumber": 19,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -785,12 +783,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 45732
   },
   {
-    "offerId": 45654,
     "sortNumber": 20,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -826,12 +824,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45654
   },
   {
-    "offerId": 45575,
     "sortNumber": 21,
-    "admissionTotalNumber": 24,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -866,12 +864,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 24,
+    "offerId": 45575
   },
   {
-    "offerId": 45776,
     "sortNumber": 22,
-    "admissionTotalNumber": 45,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -907,12 +905,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 45,
+    "offerId": 45776
   },
   {
-    "offerId": 47631,
     "sortNumber": 23,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -947,12 +945,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 47631
   },
   {
-    "offerId": 51041,
     "sortNumber": 24,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -990,12 +988,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 51041
   },
   {
-    "offerId": 45766,
     "sortNumber": 25,
-    "admissionTotalNumber": 17,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1032,12 +1030,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 45766
   },
   {
-    "offerId": 60618,
     "sortNumber": 26,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -1075,12 +1073,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60618
   },
   {
-    "offerId": 48170,
     "sortNumber": 27,
-    "admissionTotalNumber": 18,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1116,12 +1114,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 18,
+    "offerId": 48170
   },
   {
-    "offerId": 60523,
     "sortNumber": 28,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1156,12 +1154,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60523
   },
   {
-    "offerId": 45825,
     "sortNumber": 29,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1196,12 +1194,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 45825
   },
   {
-    "offerId": 45267,
     "sortNumber": 30,
-    "admissionTotalNumber": 22,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1237,12 +1235,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 22,
+    "offerId": 45267
   },
   {
-    "offerId": 51549,
     "sortNumber": 31,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -1281,12 +1279,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 51549
   },
   {
-    "offerId": 44493,
     "sortNumber": 32,
-    "admissionTotalNumber": 19,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1323,12 +1321,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 19,
+    "offerId": 44493
   },
   {
-    "offerId": 44381,
     "sortNumber": 33,
-    "admissionTotalNumber": 23,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1364,12 +1362,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 23,
+    "offerId": 44381
   },
   {
-    "offerId": 46392,
     "sortNumber": 34,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1404,12 +1402,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 46392
   },
   {
-    "offerId": 44185,
     "sortNumber": 35,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1444,12 +1442,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 44185
   },
   {
-    "offerId": 44868,
     "sortNumber": 36,
-    "admissionTotalNumber": 23,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1485,12 +1483,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 23,
+    "offerId": 44868
   },
   {
-    "offerId": 47646,
     "sortNumber": 37,
-    "admissionTotalNumber": 28,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1526,12 +1524,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 28,
+    "offerId": 47646
   },
   {
-    "offerId": 44761,
     "sortNumber": 38,
-    "admissionTotalNumber": 14,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1568,12 +1566,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 14,
+    "offerId": 44761
   },
   {
-    "offerId": 44264,
     "sortNumber": 39,
-    "admissionTotalNumber": 11,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1610,12 +1608,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 44264
   },
   {
-    "offerId": 45678,
     "sortNumber": 40,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -1653,12 +1651,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45678
   },
   {
-    "offerId": 58249,
     "sortNumber": 41,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1694,12 +1692,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 58249
   },
   {
-    "offerId": 44525,
     "sortNumber": 42,
-    "admissionTotalNumber": 25,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1735,12 +1733,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 25,
+    "offerId": 44525
   },
   {
-    "offerId": 44752,
     "sortNumber": 43,
-    "admissionTotalNumber": 31,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1777,12 +1775,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 31,
+    "offerId": 44752
   },
   {
-    "offerId": 46105,
     "sortNumber": 44,
-    "admissionTotalNumber": 15,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1818,12 +1816,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 15,
+    "offerId": 46105
   },
   {
-    "offerId": 58757,
     "sortNumber": 45,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -1861,12 +1859,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 58757
   },
   {
-    "offerId": 54885,
     "sortNumber": 46,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1901,12 +1899,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 54885
   },
   {
-    "offerId": 52238,
     "sortNumber": 47,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1941,12 +1939,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52238
   },
   {
-    "offerId": 46501,
     "sortNumber": 48,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1981,12 +1979,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 46501
   },
   {
-    "offerId": 44300,
     "sortNumber": 49,
-    "admissionTotalNumber": 14,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2021,12 +2019,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 14,
+    "offerId": 44300
   },
   {
-    "offerId": 45785,
     "sortNumber": 50,
-    "admissionTotalNumber": 17,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2062,12 +2060,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 45785
   },
   {
-    "offerId": 44120,
     "sortNumber": 51,
-    "admissionTotalNumber": 17,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2104,12 +2102,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 44120
   },
   {
-    "offerId": 50399,
     "sortNumber": 52,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -2147,12 +2145,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50399
   },
   {
-    "offerId": 45006,
     "sortNumber": 53,
-    "admissionTotalNumber": 26,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2188,12 +2186,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 26,
+    "offerId": 45006
   },
   {
-    "offerId": 44549,
     "sortNumber": 54,
-    "admissionTotalNumber": 15,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2229,12 +2227,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 15,
+    "offerId": 44549
   },
   {
-    "offerId": 47824,
     "sortNumber": 55,
-    "admissionTotalNumber": 16,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2270,12 +2268,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 16,
+    "offerId": 47824
   },
   {
-    "offerId": 44793,
     "sortNumber": 56,
-    "admissionTotalNumber": 20,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2310,12 +2308,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 20,
+    "offerId": 44793
   },
   {
-    "offerId": 44416,
     "sortNumber": 57,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2350,12 +2348,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44416
   },
   {
-    "offerId": 44438,
     "sortNumber": 58,
-    "admissionTotalNumber": 17,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2390,12 +2388,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 44438
   },
   {
-    "offerId": 51548,
     "sortNumber": 59,
-    "admissionTotalNumber": 16,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2429,12 +2427,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 16,
+    "offerId": 51548
   },
   {
-    "offerId": 44320,
     "sortNumber": 60,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2469,12 +2467,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44320
   },
   {
-    "offerId": 48949,
     "sortNumber": 61,
-    "admissionTotalNumber": 18,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2510,12 +2508,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 22,
+    "offerId": 48949
   },
   {
-    "offerId": 48866,
     "sortNumber": 62,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2551,12 +2549,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48866
   },
   {
-    "offerId": 44397,
     "sortNumber": 63,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2593,12 +2591,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44397
   },
   {
-    "offerId": 44636,
     "sortNumber": 64,
-    "admissionTotalNumber": 16,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2633,12 +2631,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 16,
+    "offerId": 44636
   },
   {
-    "offerId": 44634,
     "sortNumber": 65,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2674,12 +2672,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44634
   },
   {
-    "offerId": 53240,
     "sortNumber": 66,
-    "admissionTotalNumber": 14,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2715,12 +2713,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 14,
+    "offerId": 53240
   },
   {
-    "offerId": 53794,
     "sortNumber": 67,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -2758,12 +2756,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 53794
   },
   {
-    "offerId": 45206,
     "sortNumber": 68,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2798,12 +2796,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45206
   },
   {
-    "offerId": 59116,
     "sortNumber": 69,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -2841,12 +2839,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 59116
   },
   {
-    "offerId": 55178,
     "sortNumber": 70,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2881,12 +2879,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 55178
   },
   {
-    "offerId": 50844,
     "sortNumber": 71,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -2924,12 +2922,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50844
   },
   {
-    "offerId": 50642,
     "sortNumber": 72,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -2969,12 +2967,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50642
   },
   {
-    "offerId": 44512,
     "sortNumber": 73,
-    "admissionTotalNumber": 23,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3010,12 +3008,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 23,
+    "offerId": 44512
   },
   {
-    "offerId": 45753,
     "sortNumber": 74,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -3053,12 +3051,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45753
   },
   {
-    "offerId": 47639,
     "sortNumber": 75,
-    "admissionTotalNumber": 8,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3094,12 +3092,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 47639
   },
   {
-    "offerId": 53094,
     "sortNumber": 76,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -3136,12 +3134,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 53094
   },
   {
-    "offerId": 45041,
     "sortNumber": 77,
-    "admissionTotalNumber": 33,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3178,12 +3176,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 33,
+    "offerId": 45041
   },
   {
-    "offerId": 48221,
     "sortNumber": 78,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3218,12 +3216,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48221
   },
   {
-    "offerId": 49005,
     "sortNumber": 79,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3258,12 +3256,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 49005
   },
   {
-    "offerId": 46298,
     "sortNumber": 80,
-    "admissionTotalNumber": 17,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3298,12 +3296,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 46298
   },
   {
-    "offerId": 52809,
     "sortNumber": 81,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3339,12 +3337,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 52809
   },
   {
-    "offerId": 56888,
     "sortNumber": 82,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3380,12 +3378,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 56888
   },
   {
-    "offerId": 50099,
     "sortNumber": 83,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3421,12 +3419,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 50099
   },
   {
-    "offerId": 45707,
     "sortNumber": 84,
-    "admissionTotalNumber": 23,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3462,12 +3460,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 23,
+    "offerId": 45707
   },
   {
-    "offerId": 44305,
     "sortNumber": 85,
-    "admissionTotalNumber": 27,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3503,12 +3501,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 27,
+    "offerId": 44305
   },
   {
-    "offerId": 47843,
     "sortNumber": 86,
-    "admissionTotalNumber": 11,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3543,12 +3541,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 47843
   },
   {
-    "offerId": 48394,
     "sortNumber": 87,
-    "admissionTotalNumber": 24,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3585,12 +3583,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 24,
+    "offerId": 48394
   },
   {
-    "offerId": 44534,
     "sortNumber": 88,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3625,12 +3623,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44534
   },
   {
-    "offerId": 49636,
     "sortNumber": 89,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3665,12 +3663,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 49636
   },
   {
-    "offerId": 49100,
     "sortNumber": 90,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3706,12 +3704,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 49100
   },
   {
-    "offerId": 45580,
     "sortNumber": 91,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3747,12 +3745,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 45580
   },
   {
-    "offerId": 48319,
     "sortNumber": 92,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3787,12 +3785,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 48319
   },
   {
-    "offerId": 44349,
     "sortNumber": 93,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3827,12 +3825,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44349
   },
   {
-    "offerId": 48354,
     "sortNumber": 94,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3868,12 +3866,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 48354
   },
   {
-    "offerId": 45724,
     "sortNumber": 95,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3909,12 +3907,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 45724
   },
   {
-    "offerId": 49048,
     "sortNumber": 96,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3949,12 +3947,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 49048
   },
   {
-    "offerId": 45768,
     "sortNumber": 97,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3990,12 +3988,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 45768
   },
   {
-    "offerId": 48364,
     "sortNumber": 98,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4031,12 +4029,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 48364
   },
   {
-    "offerId": 44174,
     "sortNumber": 99,
-    "admissionTotalNumber": 8,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4073,12 +4071,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 44174
   },
   {
-    "offerId": 44316,
     "sortNumber": 100,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4114,12 +4112,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44316
   },
   {
-    "offerId": 53218,
     "sortNumber": 101,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4155,12 +4153,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 53218
   },
   {
-    "offerId": 48887,
     "sortNumber": 102,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4195,12 +4193,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 48887
   },
   {
-    "offerId": 44364,
     "sortNumber": 103,
-    "admissionTotalNumber": 16,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4235,12 +4233,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 16,
+    "offerId": 44364
   },
   {
-    "offerId": 52840,
     "sortNumber": 104,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4277,12 +4275,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52840
   },
   {
-    "offerId": 44221,
     "sortNumber": 105,
-    "admissionTotalNumber": 55,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4319,12 +4317,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 55,
+    "offerId": 44221
   },
   {
-    "offerId": 49327,
     "sortNumber": 106,
-    "admissionTotalNumber": 17,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4359,12 +4357,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 49327
   },
   {
-    "offerId": 52789,
     "sortNumber": 107,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4399,12 +4397,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 52789
   },
   {
-    "offerId": 44124,
     "sortNumber": 108,
-    "admissionTotalNumber": 11,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4440,12 +4438,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 44124
   },
   {
-    "offerId": 44173,
     "sortNumber": 109,
-    "admissionTotalNumber": 21,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4482,12 +4480,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 21,
+    "offerId": 44173
   },
   {
-    "offerId": 44604,
     "sortNumber": 110,
-    "admissionTotalNumber": 19,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4522,12 +4520,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 19,
+    "offerId": 44604
   },
   {
-    "offerId": 45705,
     "sortNumber": 111,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4562,12 +4560,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 45705
   },
   {
-    "offerId": 44402,
     "sortNumber": 112,
-    "admissionTotalNumber": 33,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4603,12 +4601,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 33,
+    "offerId": 44402
   },
   {
-    "offerId": 50624,
     "sortNumber": 113,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4643,12 +4641,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50624
   },
   {
-    "offerId": 44477,
     "sortNumber": 114,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4683,12 +4681,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44477
   },
   {
-    "offerId": 47802,
     "sortNumber": 115,
-    "admissionTotalNumber": 8,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4723,12 +4721,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 47802
   },
   {
-    "offerId": 54998,
     "sortNumber": 116,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4764,12 +4762,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54998
   },
   {
-    "offerId": 46506,
     "sortNumber": 117,
-    "admissionTotalNumber": 22,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4805,12 +4803,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 22,
+    "offerId": 46506
   },
   {
-    "offerId": 44245,
     "sortNumber": 118,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4845,12 +4843,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 44245
   },
   {
-    "offerId": 48169,
     "sortNumber": 119,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4885,12 +4883,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 48169
   },
   {
-    "offerId": 44720,
     "sortNumber": 120,
-    "admissionTotalNumber": 8,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4925,12 +4923,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 44720
   },
   {
-    "offerId": 49072,
     "sortNumber": 121,
-    "admissionTotalNumber": 22,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4965,12 +4963,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 22,
+    "offerId": 49072
   },
   {
-    "offerId": 45703,
     "sortNumber": 122,
-    "admissionTotalNumber": 15,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5005,12 +5003,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 15,
+    "offerId": 45703
   },
   {
-    "offerId": 44100,
     "sortNumber": 123,
-    "admissionTotalNumber": 10,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5045,12 +5043,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 44100
   },
   {
-    "offerId": 44248,
     "sortNumber": 124,
-    "admissionTotalNumber": 11,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5086,12 +5084,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 44248
   },
   {
-    "offerId": 53102,
     "sortNumber": 125,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5125,12 +5123,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 53102
   },
   {
-    "offerId": 51451,
     "sortNumber": 126,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5166,12 +5164,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 51451
   },
   {
-    "offerId": 52101,
     "sortNumber": 127,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5205,12 +5203,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 52101
   },
   {
-    "offerId": 58019,
     "sortNumber": 128,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -5239,12 +5237,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58019
   },
   {
-    "offerId": 44729,
     "sortNumber": 129,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5279,12 +5277,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44729
   },
   {
-    "offerId": 49548,
     "sortNumber": 130,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5319,12 +5317,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 49548
   },
   {
-    "offerId": 52193,
     "sortNumber": 131,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5359,12 +5357,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 52193
   },
   {
-    "offerId": 46547,
     "sortNumber": 132,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5399,12 +5397,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 46547
   },
   {
-    "offerId": 47634,
     "sortNumber": 133,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5439,12 +5437,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 47634
   },
   {
-    "offerId": 45710,
     "sortNumber": 134,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5480,12 +5478,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 45710
   },
   {
-    "offerId": 44977,
     "sortNumber": 135,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5522,12 +5520,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44977
   },
   {
-    "offerId": 45095,
     "sortNumber": 136,
-    "admissionTotalNumber": 14,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5563,12 +5561,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 14,
+    "offerId": 45095
   },
   {
-    "offerId": 56324,
     "sortNumber": 137,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5603,12 +5601,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 56324
   },
   {
-    "offerId": 45706,
     "sortNumber": 138,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5643,12 +5641,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45706
   },
   {
-    "offerId": 45677,
     "sortNumber": 139,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5683,12 +5681,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 45677
   },
   {
-    "offerId": 53573,
     "sortNumber": 140,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5722,12 +5720,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 53573
   },
   {
-    "offerId": 44970,
     "sortNumber": 141,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5762,12 +5760,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44970
   },
   {
-    "offerId": 46048,
     "sortNumber": 142,
-    "admissionTotalNumber": 10,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5803,12 +5801,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 46048
   },
   {
-    "offerId": 44484,
     "sortNumber": 143,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5843,12 +5841,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44484
   },
   {
-    "offerId": 48890,
     "sortNumber": 144,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5883,12 +5881,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48890
   },
   {
-    "offerId": 58408,
     "sortNumber": 145,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5924,12 +5922,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58408
   },
   {
-    "offerId": 48597,
     "sortNumber": 146,
-    "admissionTotalNumber": 18,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5964,12 +5962,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 18,
+    "offerId": 48597
   },
   {
-    "offerId": 44815,
     "sortNumber": 147,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6004,12 +6002,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44815
   },
   {
-    "offerId": 45269,
     "sortNumber": 148,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6044,12 +6042,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 45269
   },
   {
-    "offerId": 46261,
     "sortNumber": 149,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6084,12 +6082,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46261
   },
   {
-    "offerId": 48296,
     "sortNumber": 150,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6126,12 +6124,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 48296
   },
   {
-    "offerId": 44310,
     "sortNumber": 151,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6166,12 +6164,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44310
   },
   {
-    "offerId": 50490,
     "sortNumber": 152,
-    "admissionTotalNumber": 17,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6207,12 +6205,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 50490
   },
   {
-    "offerId": 44526,
     "sortNumber": 153,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6247,12 +6245,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44526
   },
   {
-    "offerId": 44490,
     "sortNumber": 154,
-    "admissionTotalNumber": 26,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6288,12 +6286,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 26,
+    "offerId": 44490
   },
   {
-    "offerId": 50302,
     "sortNumber": 155,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6329,12 +6327,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 50302
   },
   {
-    "offerId": 45774,
     "sortNumber": 156,
-    "admissionTotalNumber": 10,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6369,12 +6367,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 45774
   },
   {
-    "offerId": 49219,
     "sortNumber": 157,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6409,12 +6407,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 49219
   },
   {
-    "offerId": 44651,
     "sortNumber": 158,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6449,12 +6447,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44651
   },
   {
-    "offerId": 44737,
     "sortNumber": 159,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6489,12 +6487,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44737
   },
   {
-    "offerId": 45782,
     "sortNumber": 160,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6529,12 +6527,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45782
   },
   {
-    "offerId": 44541,
     "sortNumber": 161,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6569,12 +6567,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44541
   },
   {
-    "offerId": 44178,
     "sortNumber": 162,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6609,12 +6607,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44178
   },
   {
-    "offerId": 48234,
     "sortNumber": 163,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6649,12 +6647,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 48234
   },
   {
-    "offerId": 55459,
     "sortNumber": 164,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6689,12 +6687,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55459
   },
   {
-    "offerId": 44441,
     "sortNumber": 165,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6730,12 +6728,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44441
   },
   {
-    "offerId": 44585,
     "sortNumber": 166,
-    "admissionTotalNumber": 22,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6771,12 +6769,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 22,
+    "offerId": 44585
   },
   {
-    "offerId": 46123,
     "sortNumber": 167,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6811,12 +6809,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 46123
   },
   {
-    "offerId": 50502,
     "sortNumber": 168,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6851,12 +6849,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50502
   },
   {
-    "offerId": 44214,
     "sortNumber": 169,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6888,12 +6886,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44214
   },
   {
-    "offerId": 54096,
     "sortNumber": 170,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6928,12 +6926,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 54096
   },
   {
-    "offerId": 44436,
     "sortNumber": 171,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6968,12 +6966,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44436
   },
   {
-    "offerId": 53537,
     "sortNumber": 172,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7007,12 +7005,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 53537
   },
   {
-    "offerId": 45023,
     "sortNumber": 173,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7047,12 +7045,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 45023
   },
   {
-    "offerId": 45709,
     "sortNumber": 174,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7088,12 +7086,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 45709
   },
   {
-    "offerId": 44360,
     "sortNumber": 175,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -7122,12 +7120,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44360
   },
   {
-    "offerId": 44843,
     "sortNumber": 176,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7162,12 +7160,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44843
   },
   {
-    "offerId": 45714,
     "sortNumber": 177,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -7196,12 +7194,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 45714
   },
   {
-    "offerId": 51997,
     "sortNumber": 178,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7236,12 +7234,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 51997
   },
   {
-    "offerId": 46637,
     "sortNumber": 179,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7276,12 +7274,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46637
   },
   {
-    "offerId": 59095,
     "sortNumber": 180,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7316,12 +7314,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 59095
   },
   {
-    "offerId": 46615,
     "sortNumber": 181,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "countClick": 0,
       "cityId": 1101,
@@ -7357,12 +7355,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 46615
   },
   {
-    "offerId": 53680,
     "sortNumber": 182,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7396,12 +7394,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 53680
   },
   {
-    "offerId": 56294,
     "sortNumber": 183,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7437,12 +7435,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 56294
   },
   {
-    "offerId": 49131,
     "sortNumber": 184,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7478,12 +7476,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 49131
   },
   {
-    "offerId": 45667,
     "sortNumber": 185,
-    "admissionTotalNumber": 11,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -7512,12 +7510,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 45667
   },
   {
-    "offerId": 45003,
     "sortNumber": 186,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7552,12 +7550,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45003
   },
   {
-    "offerId": 52191,
     "sortNumber": 187,
-    "admissionTotalNumber": 8,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7592,12 +7590,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 52191
   },
   {
-    "offerId": 60959,
     "sortNumber": 188,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7632,12 +7630,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 60959
   },
   {
-    "offerId": 58666,
     "sortNumber": 189,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -7666,12 +7664,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58666
   },
   {
-    "offerId": 45596,
     "sortNumber": 190,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7706,12 +7704,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45596
   },
   {
-    "offerId": 50422,
     "sortNumber": 191,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7746,12 +7744,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50422
   },
   {
-    "offerId": 52946,
     "sortNumber": 192,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7785,12 +7783,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52946
   },
   {
-    "offerId": 45286,
     "sortNumber": 193,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -7820,12 +7818,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45286
   },
   {
-    "offerId": 44265,
     "sortNumber": 194,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -7855,12 +7853,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44265
   },
   {
-    "offerId": 44504,
     "sortNumber": 195,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -7889,12 +7887,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44504
   },
   {
-    "offerId": 56846,
     "sortNumber": 196,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7928,12 +7926,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 56846
   },
   {
-    "offerId": 44553,
     "sortNumber": 197,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -7962,12 +7960,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44553
   },
   {
-    "offerId": 45056,
     "sortNumber": 198,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8003,12 +8001,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 45056
   },
   {
-    "offerId": 44905,
     "sortNumber": 199,
-    "admissionTotalNumber": 19,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8037,12 +8035,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 19,
+    "offerId": 44905
   },
   {
-    "offerId": 56178,
     "sortNumber": 200,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8071,12 +8069,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 56178
   },
   {
-    "offerId": 53643,
     "sortNumber": 201,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8105,12 +8103,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 53643
   },
   {
-    "offerId": 44769,
     "sortNumber": 202,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8139,12 +8137,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44769
   },
   {
-    "offerId": 44852,
     "sortNumber": 203,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8173,12 +8171,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44852
   },
   {
-    "offerId": 44686,
     "sortNumber": 204,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8207,12 +8205,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44686
   },
   {
-    "offerId": 44662,
     "sortNumber": 205,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -8250,12 +8248,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "学美教育"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44662
   },
   {
-    "offerId": 45708,
     "sortNumber": 206,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8284,12 +8282,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45708
   },
   {
-    "offerId": 48137,
     "sortNumber": 207,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8318,12 +8316,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 48137
   },
   {
-    "offerId": 44677,
     "sortNumber": 208,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8352,12 +8350,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44677
   },
   {
-    "offerId": 49046,
     "sortNumber": 209,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8393,12 +8391,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 49046
   },
   {
-    "offerId": 48165,
     "sortNumber": 210,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8427,12 +8425,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48165
   },
   {
-    "offerId": 44261,
     "sortNumber": 211,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8468,12 +8466,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44261
   },
   {
-    "offerId": 47874,
     "sortNumber": 212,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8502,12 +8500,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 47874
   },
   {
-    "offerId": 56043,
     "sortNumber": 213,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8536,12 +8534,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 56043
   },
   {
-    "offerId": 45644,
     "sortNumber": 214,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8570,12 +8568,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45644
   },
   {
-    "offerId": 44544,
     "sortNumber": 215,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8604,12 +8602,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 44544
   },
   {
-    "offerId": 46173,
     "sortNumber": 216,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8638,12 +8636,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 46173
   },
   {
-    "offerId": 46420,
     "sortNumber": 217,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8672,12 +8670,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 46420
   },
   {
-    "offerId": 49116,
     "sortNumber": 218,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8706,12 +8704,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 49116
   },
   {
-    "offerId": 45594,
     "sortNumber": 219,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8740,12 +8738,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 45594
   },
   {
-    "offerId": 44322,
     "sortNumber": 220,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8774,12 +8772,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44322
   },
   {
-    "offerId": 44855,
     "sortNumber": 221,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8808,12 +8806,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44855
   },
   {
-    "offerId": 48192,
     "sortNumber": 222,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8842,12 +8840,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 48192
   },
   {
-    "offerId": 46585,
     "sortNumber": 223,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8876,12 +8874,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46585
   },
   {
-    "offerId": 44804,
     "sortNumber": 224,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8910,12 +8908,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44804
   },
   {
-    "offerId": 44837,
     "sortNumber": 225,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -8944,12 +8942,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44837
   },
   {
-    "offerId": 44122,
     "sortNumber": 226,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8979,12 +8977,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44122
   },
   {
-    "offerId": 44362,
     "sortNumber": 227,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -9016,12 +9014,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44362
   },
   {
-    "offerId": 44723,
     "sortNumber": 228,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -9058,12 +9056,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44723
   },
   {
-    "offerId": 48189,
     "sortNumber": 229,
-    "admissionTotalNumber": 15,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -9101,12 +9099,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 15,
+    "offerId": 48189
   },
   {
-    "offerId": 48017,
     "sortNumber": 230,
-    "admissionTotalNumber": 8,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -9143,12 +9141,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 48017
   },
   {
-    "offerId": 45070,
     "sortNumber": 231,
-    "admissionTotalNumber": 10,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9177,12 +9175,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 45070
   },
   {
-    "offerId": 44656,
     "sortNumber": 232,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9211,12 +9209,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44656
   },
   {
-    "offerId": 54714,
     "sortNumber": 233,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9245,12 +9243,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54714
   },
   {
-    "offerId": 58591,
     "sortNumber": 234,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9279,12 +9277,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58591
   },
   {
-    "offerId": 52867,
     "sortNumber": 235,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9313,12 +9311,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 52867
   },
   {
-    "offerId": 53421,
     "sortNumber": 236,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9347,12 +9345,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 53421
   },
   {
-    "offerId": 44912,
     "sortNumber": 237,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9381,12 +9379,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44912
   },
   {
-    "offerId": 44361,
     "sortNumber": 238,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9416,12 +9414,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44361
   },
   {
-    "offerId": 48580,
     "sortNumber": 239,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9451,12 +9449,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 48580
   },
   {
-    "offerId": 48734,
     "sortNumber": 240,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9485,12 +9483,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 48734
   },
   {
-    "offerId": 50581,
     "sortNumber": 241,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9519,12 +9517,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50581
   },
   {
-    "offerId": 45270,
     "sortNumber": 242,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9553,12 +9551,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45270
   },
   {
-    "offerId": 50655,
     "sortNumber": 243,
-    "admissionTotalNumber": 11,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9587,12 +9585,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 50655
   },
   {
-    "offerId": 47833,
     "sortNumber": 244,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9621,12 +9619,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 47833
   },
   {
-    "offerId": 50131,
     "sortNumber": 245,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9655,12 +9653,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 50131
   },
   {
-    "offerId": 45684,
     "sortNumber": 246,
-    "admissionTotalNumber": 10,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9689,12 +9687,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 45684
   },
   {
-    "offerId": 49085,
     "sortNumber": 247,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9723,12 +9721,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 49085
   },
   {
-    "offerId": 45669,
     "sortNumber": 248,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9757,12 +9755,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 45669
   },
   {
-    "offerId": 55941,
     "sortNumber": 249,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9791,12 +9789,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 55941
   },
   {
-    "offerId": 54987,
     "sortNumber": 250,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -9832,12 +9830,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54987
   },
   {
-    "offerId": 44197,
     "sortNumber": 251,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9866,12 +9864,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44197
   },
   {
-    "offerId": 44497,
     "sortNumber": 252,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9900,12 +9898,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44497
   },
   {
-    "offerId": 44271,
     "sortNumber": 253,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9934,12 +9932,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44271
   },
   {
-    "offerId": 60996,
     "sortNumber": 254,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -9968,12 +9966,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 60996
   },
   {
-    "offerId": 45674,
     "sortNumber": 255,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10002,12 +10000,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45674
   },
   {
-    "offerId": 45072,
     "sortNumber": 256,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10036,12 +10034,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45072
   },
   {
-    "offerId": 44325,
     "sortNumber": 257,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10070,12 +10068,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44325
   },
   {
-    "offerId": 44366,
     "sortNumber": 258,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10105,12 +10103,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 44366
   },
   {
-    "offerId": 44794,
     "sortNumber": 259,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10146,12 +10144,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44794
   },
   {
-    "offerId": 44486,
     "sortNumber": 260,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10188,12 +10186,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44486
   },
   {
-    "offerId": 44434,
     "sortNumber": 261,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10231,12 +10229,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "融尚南希"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44434
   },
   {
-    "offerId": 44663,
     "sortNumber": 262,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10274,12 +10272,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "学美教育"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44663
   },
   {
-    "offerId": 45073,
     "sortNumber": 263,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10315,12 +10313,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 45073
   },
   {
-    "offerId": 45846,
     "sortNumber": 264,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10357,12 +10355,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45846
   },
   {
-    "offerId": 45965,
     "sortNumber": 265,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10399,12 +10397,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45965
   },
   {
-    "offerId": 46543,
     "sortNumber": 266,
-    "admissionTotalNumber": 10,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10441,12 +10439,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 46543
   },
   {
-    "offerId": 48018,
     "sortNumber": 267,
-    "admissionTotalNumber": 16,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10483,12 +10481,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 16,
+    "offerId": 48018
   },
   {
-    "offerId": 48327,
     "sortNumber": 268,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -10524,12 +10522,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 48327
   },
   {
-    "offerId": 44574,
     "sortNumber": 269,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10559,12 +10557,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44574
   },
   {
-    "offerId": 44190,
     "sortNumber": 270,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10593,12 +10591,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44190
   },
   {
-    "offerId": 57218,
     "sortNumber": 271,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10628,12 +10626,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 57218
   },
   {
-    "offerId": 44312,
     "sortNumber": 272,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10662,12 +10660,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44312
   },
   {
-    "offerId": 49991,
     "sortNumber": 273,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10703,12 +10701,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 49991
   },
   {
-    "offerId": 45212,
     "sortNumber": 274,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10737,12 +10735,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45212
   },
   {
-    "offerId": 44319,
     "sortNumber": 275,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10771,12 +10769,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44319
   },
   {
-    "offerId": 50329,
     "sortNumber": 276,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10805,12 +10803,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 50329
   },
   {
-    "offerId": 48939,
     "sortNumber": 277,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10839,12 +10837,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48939
   },
   {
-    "offerId": 55175,
     "sortNumber": 278,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10874,12 +10872,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 55175
   },
   {
-    "offerId": 48416,
     "sortNumber": 279,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10909,12 +10907,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 48416
   },
   {
-    "offerId": 48737,
     "sortNumber": 280,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10943,12 +10941,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 48737
   },
   {
-    "offerId": 45039,
     "sortNumber": 281,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -10977,12 +10975,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 45039
   },
   {
-    "offerId": 45666,
     "sortNumber": 282,
-    "admissionTotalNumber": 10,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -11017,12 +11015,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 45666
   },
   {
-    "offerId": 58457,
     "sortNumber": 283,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11051,12 +11049,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58457
   },
   {
-    "offerId": 53114,
     "sortNumber": 284,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11085,12 +11083,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 53114
   },
   {
-    "offerId": 45755,
     "sortNumber": 285,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11119,12 +11117,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45755
   },
   {
-    "offerId": 45780,
     "sortNumber": 286,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11153,12 +11151,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45780
   },
   {
-    "offerId": 50617,
     "sortNumber": 287,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11187,12 +11185,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 50617
   },
   {
-    "offerId": 45849,
     "sortNumber": 288,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11221,12 +11219,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45849
   },
   {
-    "offerId": 46423,
     "sortNumber": 289,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11255,12 +11253,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46423
   },
   {
-    "offerId": 45953,
     "sortNumber": 290,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11289,12 +11287,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 45953
   },
   {
-    "offerId": 51060,
     "sortNumber": 291,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11323,12 +11321,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 51060
   },
   {
-    "offerId": 50127,
     "sortNumber": 292,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11357,12 +11355,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 50127
   },
   {
-    "offerId": 48405,
     "sortNumber": 293,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11391,12 +11389,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 48405
   },
   {
-    "offerId": 50079,
     "sortNumber": 294,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11425,12 +11423,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50079
   },
   {
-    "offerId": 44714,
     "sortNumber": 295,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11459,12 +11457,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 44714
   },
   {
-    "offerId": 54981,
     "sortNumber": 296,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11493,12 +11491,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54981
   },
   {
-    "offerId": 52216,
     "sortNumber": 297,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11527,12 +11525,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 52216
   },
   {
-    "offerId": 49073,
     "sortNumber": 298,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -11566,12 +11564,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 49073
   },
   {
-    "offerId": 44712,
     "sortNumber": 299,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11600,12 +11598,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44712
   },
   {
-    "offerId": 61094,
     "sortNumber": 300,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11634,12 +11632,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 61094
   },
   {
-    "offerId": 49993,
     "sortNumber": 301,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11668,12 +11666,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 49993
   },
   {
-    "offerId": 56624,
     "sortNumber": 302,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11702,12 +11700,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 56624
   },
   {
-    "offerId": 56217,
     "sortNumber": 303,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11736,12 +11734,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 56217
   },
   {
-    "offerId": 54812,
     "sortNumber": 304,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -11770,12 +11768,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54812
   },
   {
-    "offerId": 54682,
     "sortNumber": 305,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -11810,12 +11808,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 54682
   },
   {
-    "offerId": 44244,
     "sortNumber": 306,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -11853,12 +11851,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44244
   },
   {
-    "offerId": 44252,
     "sortNumber": 307,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -11897,12 +11895,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "创藤"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44252
   },
   {
-    "offerId": 44311,
     "sortNumber": 308,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -11940,12 +11938,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44311
   },
   {
-    "offerId": 44368,
     "sortNumber": 309,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -11982,12 +11980,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44368
   },
   {
-    "offerId": 44389,
     "sortNumber": 310,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12024,12 +12022,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44389
   },
   {
-    "offerId": 44453,
     "sortNumber": 311,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12066,12 +12064,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "三士渡教育"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44453
   },
   {
-    "offerId": 44500,
     "sortNumber": 312,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12110,12 +12108,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "创藤"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44500
   },
   {
-    "offerId": 44575,
     "sortNumber": 313,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12151,12 +12149,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 44575
   },
   {
-    "offerId": 45903,
     "sortNumber": 314,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12193,12 +12191,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "RayD"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45903
   },
   {
-    "offerId": 44630,
     "sortNumber": 315,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12235,12 +12233,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "飞渡"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44630
   },
   {
-    "offerId": 44704,
     "sortNumber": 316,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12277,12 +12275,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44704
   },
   {
-    "offerId": 44717,
     "sortNumber": 317,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12319,12 +12317,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44717
   },
   {
-    "offerId": 44718,
     "sortNumber": 318,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12361,12 +12359,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44718
   },
   {
-    "offerId": 44725,
     "sortNumber": 319,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12403,12 +12401,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44725
   },
   {
-    "offerId": 44719,
     "sortNumber": 320,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12445,12 +12443,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44719
   },
   {
-    "offerId": 44724,
     "sortNumber": 321,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12489,12 +12487,12 @@
       "auditStatus": -1,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44724
   },
   {
-    "offerId": 44748,
     "sortNumber": 322,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12531,12 +12529,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44748
   },
   {
-    "offerId": 45631,
     "sortNumber": 323,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12575,12 +12573,12 @@
       "auditStatus": -1,
       "gotScore": 10,
       "createUser": "三士渡教育"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45631
   },
   {
-    "offerId": 44775,
     "sortNumber": 324,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12619,12 +12617,12 @@
       "auditStatus": -1,
       "gotScore": 10,
       "createUser": "三士渡教育"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44775
   },
   {
-    "offerId": 44792,
     "sortNumber": 325,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10004,
@@ -12662,12 +12660,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "顾瑞"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44792
   },
   {
-    "offerId": 44799,
     "sortNumber": 326,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12704,12 +12702,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44799
   },
   {
-    "offerId": 44807,
     "sortNumber": 327,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12746,12 +12744,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44807
   },
   {
-    "offerId": 45950,
     "sortNumber": 328,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12789,12 +12787,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 45950
   },
   {
-    "offerId": 45092,
     "sortNumber": 329,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12830,12 +12828,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 45092
   },
   {
-    "offerId": 45284,
     "sortNumber": 330,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12872,12 +12870,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45284
   },
   {
-    "offerId": 45634,
     "sortNumber": 331,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12914,12 +12912,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45634
   },
   {
-    "offerId": 45668,
     "sortNumber": 332,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12956,12 +12954,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45668
   },
   {
-    "offerId": 45670,
     "sortNumber": 333,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -12997,12 +12995,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45670
   },
   {
-    "offerId": 45721,
     "sortNumber": 334,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13039,12 +13037,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45721
   },
   {
-    "offerId": 45722,
     "sortNumber": 335,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13081,12 +13079,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45722
   },
   {
-    "offerId": 45847,
     "sortNumber": 336,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13123,12 +13121,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45847
   },
   {
-    "offerId": 45850,
     "sortNumber": 337,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13165,12 +13163,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 45850
   },
   {
-    "offerId": 45851,
     "sortNumber": 338,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13207,12 +13205,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 45851
   },
   {
-    "offerId": 45852,
     "sortNumber": 339,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13249,12 +13247,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45852
   },
   {
-    "offerId": 45853,
     "sortNumber": 340,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13291,12 +13289,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45853
   },
   {
-    "offerId": 45862,
     "sortNumber": 341,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13333,12 +13331,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45862
   },
   {
-    "offerId": 46062,
     "sortNumber": 342,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13375,12 +13373,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46062
   },
   {
-    "offerId": 46149,
     "sortNumber": 343,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13417,12 +13415,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "三士渡教育"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 46149
   },
   {
-    "offerId": 46195,
     "sortNumber": 344,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13459,12 +13457,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 46195
   },
   {
-    "offerId": 46255,
     "sortNumber": 345,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13502,12 +13500,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 46255
   },
   {
-    "offerId": 46502,
     "sortNumber": 346,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13545,12 +13543,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46502
   },
   {
-    "offerId": 47610,
     "sortNumber": 347,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13589,12 +13587,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 47610
   },
   {
-    "offerId": 49253,
     "sortNumber": 348,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13631,12 +13629,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 49253
   },
   {
-    "offerId": 48014,
     "sortNumber": 349,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13673,12 +13671,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 48014
   },
   {
-    "offerId": 48043,
     "sortNumber": 350,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13714,12 +13712,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 48043
   },
   {
-    "offerId": 48044,
     "sortNumber": 351,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13756,12 +13754,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 48044
   },
   {
-    "offerId": 48177,
     "sortNumber": 352,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13798,12 +13796,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 48177
   },
   {
-    "offerId": 48224,
     "sortNumber": 353,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13840,12 +13838,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 48224
   },
   {
-    "offerId": 48294,
     "sortNumber": 354,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13881,12 +13879,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48294
   },
   {
-    "offerId": 48308,
     "sortNumber": 355,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13923,12 +13921,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48308
   },
   {
-    "offerId": 58396,
     "sortNumber": 356,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -13965,12 +13963,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 58396
   },
   {
-    "offerId": 48343,
     "sortNumber": 357,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -14006,12 +14004,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 48343
   },
   {
-    "offerId": 48588,
     "sortNumber": 358,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -14050,12 +14048,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "爱博"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48588
   },
   {
-    "offerId": 49002,
     "sortNumber": 359,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -14091,12 +14089,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 49002
   },
   {
-    "offerId": 49263,
     "sortNumber": 360,
-    "admissionTotalNumber": 11,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -14136,12 +14134,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美国精英留学"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 49263
   },
   {
-    "offerId": 51478,
     "sortNumber": 361,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14170,12 +14168,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 51478
   },
   {
-    "offerId": 55030,
     "sortNumber": 362,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14204,12 +14202,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55030
   },
   {
-    "offerId": 49278,
     "sortNumber": 363,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14238,12 +14236,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 49278
   },
   {
-    "offerId": 54828,
     "sortNumber": 364,
-    "admissionTotalNumber": 8,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14272,12 +14270,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 54828
   },
   {
-    "offerId": 53508,
     "sortNumber": 365,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -14311,12 +14309,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 53508
   },
   {
-    "offerId": 59450,
     "sortNumber": 366,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14344,12 +14342,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 59450
   },
   {
-    "offerId": 54713,
     "sortNumber": 367,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14379,12 +14377,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 54713
   },
   {
-    "offerId": 51858,
     "sortNumber": 368,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "cityId": 1101,
       "lastUpdateUid": 1,
@@ -14417,12 +14415,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 51858
   },
   {
-    "offerId": 53082,
     "sortNumber": 369,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14451,12 +14449,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 53082
   },
   {
-    "offerId": 52949,
     "sortNumber": 370,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14485,12 +14483,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52949
   },
   {
-    "offerId": 56569,
     "sortNumber": 371,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14519,12 +14517,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 56569
   },
   {
-    "offerId": 50283,
     "sortNumber": 372,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14553,12 +14551,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 50283
   },
   {
-    "offerId": 53760,
     "sortNumber": 373,
-    "admissionTotalNumber": 11,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14587,12 +14585,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 53760
   },
   {
-    "offerId": 54581,
     "sortNumber": 374,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14621,12 +14619,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 54581
   },
   {
-    "offerId": 51373,
     "sortNumber": 375,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14655,12 +14653,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 51373
   },
   {
-    "offerId": 55019,
     "sortNumber": 376,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14689,12 +14687,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55019
   },
   {
-    "offerId": 53046,
     "sortNumber": 377,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14723,12 +14721,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 53046
   },
   {
-    "offerId": 52939,
     "sortNumber": 378,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14757,12 +14755,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52939
   },
   {
-    "offerId": 50062,
     "sortNumber": 379,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14791,12 +14789,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 50062
   },
   {
-    "offerId": 54881,
     "sortNumber": 380,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "lastUpdateUid": 1,
       "type": 1,
@@ -14825,12 +14823,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 54881
   },
   {
-    "offerId": 50832,
     "sortNumber": 381,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -14867,12 +14865,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50832
   },
   {
-    "offerId": 52198,
     "sortNumber": 382,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -14909,12 +14907,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "留学生网"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 52198
   },
   {
-    "offerId": 50425,
     "sortNumber": 383,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -14951,12 +14949,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 50425
   },
   {
-    "offerId": 56020,
     "sortNumber": 384,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -14996,12 +14994,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 56020
   },
   {
-    "offerId": 52665,
     "sortNumber": 385,
-    "admissionTotalNumber": 10,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15038,12 +15036,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 52665
   },
   {
-    "offerId": 60364,
     "sortNumber": 386,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15082,12 +15080,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美国精英留学"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 60364
   },
   {
-    "offerId": 49625,
     "sortNumber": 387,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15127,12 +15125,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 49625
   },
   {
-    "offerId": 49923,
     "sortNumber": 388,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15169,12 +15167,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 49923
   },
   {
-    "offerId": 50134,
     "sortNumber": 389,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15213,12 +15211,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50134
   },
   {
-    "offerId": 50289,
     "sortNumber": 390,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15258,12 +15256,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50289
   },
   {
-    "offerId": 50375,
     "sortNumber": 391,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15303,12 +15301,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美国精英留学"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 50375
   },
   {
-    "offerId": 50672,
     "sortNumber": 392,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15348,12 +15346,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50672
   },
   {
-    "offerId": 50491,
     "sortNumber": 393,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15392,12 +15390,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "Evita Lv"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 50491
   },
   {
-    "offerId": 53237,
     "sortNumber": 394,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15436,12 +15434,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "Evita Lv"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 53237
   },
   {
-    "offerId": 50596,
     "sortNumber": 395,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15477,12 +15475,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50596
   },
   {
-    "offerId": 51379,
     "sortNumber": 396,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15521,12 +15519,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 51379
   },
   {
-    "offerId": 57080,
     "sortNumber": 397,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15565,12 +15563,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 57080
   },
   {
-    "offerId": 61015,
     "sortNumber": 398,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10004,
@@ -15609,12 +15607,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "鹿鸣"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 61015
   },
   {
-    "offerId": 51072,
     "sortNumber": 399,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15653,12 +15651,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "哈斯教育"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 51072
   },
   {
-    "offerId": 51097,
     "sortNumber": 400,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15697,12 +15695,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "哈斯教育"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 51097
   },
   {
-    "offerId": 51453,
     "sortNumber": 401,
-    "admissionTotalNumber": 12,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15741,12 +15739,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "学美教育"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 51453
   },
   {
-    "offerId": 44633,
     "sortNumber": 402,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15786,12 +15784,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "融尚南希"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 44633
   },
   {
-    "offerId": 51542,
     "sortNumber": 403,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10004,
@@ -15829,12 +15827,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 51542
   },
   {
-    "offerId": 53021,
     "sortNumber": 404,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15872,12 +15870,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "truetalent"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 53021
   },
   {
-    "offerId": 51620,
     "sortNumber": 405,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15914,12 +15912,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 51620
   },
   {
-    "offerId": 52078,
     "sortNumber": 406,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -15957,12 +15955,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美国精英留学"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 52078
   },
   {
-    "offerId": 58440,
     "sortNumber": 407,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16000,12 +15998,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "丽格教育"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 58440
   },
   {
-    "offerId": 52601,
     "sortNumber": 408,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16043,12 +16041,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "留学生网"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52601
   },
   {
-    "offerId": 52606,
     "sortNumber": 409,
-    "admissionTotalNumber": 7,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16086,12 +16084,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "留学生网"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 52606
   },
   {
-    "offerId": 52311,
     "sortNumber": 410,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16128,12 +16126,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52311
   },
   {
-    "offerId": 52841,
     "sortNumber": 411,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16171,12 +16169,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "ivylabs"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52841
   },
   {
-    "offerId": 52852,
     "sortNumber": 412,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16214,12 +16212,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "棒呆"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 52852
   },
   {
-    "offerId": 53165,
     "sortNumber": 413,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16257,12 +16255,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "敏思跃动"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 53165
   },
   {
-    "offerId": 56355,
     "sortNumber": 414,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16300,12 +16298,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "敏思跃动"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 56355
   },
   {
-    "offerId": 54849,
     "sortNumber": 415,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16342,12 +16340,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54849
   },
   {
-    "offerId": 53632,
     "sortNumber": 416,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16385,12 +16383,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 53632
   },
   {
-    "offerId": 59487,
     "sortNumber": 417,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16428,12 +16426,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 59487
   },
   {
-    "offerId": 56158,
     "sortNumber": 418,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16471,12 +16469,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 56158
   },
   {
-    "offerId": 55075,
     "sortNumber": 419,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16514,12 +16512,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "蓝图国际"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 55075
   },
   {
-    "offerId": 55066,
     "sortNumber": 420,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16557,12 +16555,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55066
   },
   {
-    "offerId": 55072,
     "sortNumber": 421,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16600,12 +16598,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55072
   },
   {
-    "offerId": 55074,
     "sortNumber": 422,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16643,12 +16641,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55074
   },
   {
-    "offerId": 55078,
     "sortNumber": 423,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16686,12 +16684,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55078
   },
   {
-    "offerId": 44192,
     "sortNumber": 424,
-    "admissionTotalNumber": 9,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16729,12 +16727,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "敏思跃动"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 44192
   },
   {
-    "offerId": 55464,
     "sortNumber": 425,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16771,12 +16769,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55464
   },
   {
-    "offerId": 56382,
     "sortNumber": 426,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16814,12 +16812,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 56382
   },
   {
-    "offerId": 55816,
     "sortNumber": 427,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16857,12 +16855,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "博美前程"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 55816
   },
   {
-    "offerId": 55809,
     "sortNumber": 428,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16899,12 +16897,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 55809
   },
   {
-    "offerId": 55857,
     "sortNumber": 429,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16941,12 +16939,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 55857
   },
   {
-    "offerId": 55925,
     "sortNumber": 430,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -16984,12 +16982,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55925
   },
   {
-    "offerId": 59910,
     "sortNumber": 431,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17027,12 +17025,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 59910
   },
   {
-    "offerId": 59430,
     "sortNumber": 432,
-    "admissionTotalNumber": 6,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17070,12 +17068,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "引知"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 59430
   },
   {
-    "offerId": 56644,
     "sortNumber": 433,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17113,12 +17111,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 56644
   },
   {
-    "offerId": 56868,
     "sortNumber": 434,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17156,12 +17154,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "波哥教育"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 56868
   },
   {
-    "offerId": 57063,
     "sortNumber": 435,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17199,12 +17197,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 57063
   },
   {
-    "offerId": 57394,
     "sortNumber": 436,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17242,12 +17240,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 57394
   },
   {
-    "offerId": 58799,
     "sortNumber": 437,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17285,12 +17283,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "xuneducation"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 58799
   },
   {
-    "offerId": 59030,
     "sortNumber": 438,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17328,12 +17326,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "H theory"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 59030
   },
   {
-    "offerId": 60258,
     "sortNumber": 439,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17372,12 +17370,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "明德立人"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60258
   },
   {
-    "offerId": 59341,
     "sortNumber": 440,
-    "admissionTotalNumber": 5,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17415,12 +17413,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "海狸"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 59341
   },
   {
-    "offerId": 59367,
     "sortNumber": 441,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17458,12 +17456,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "常春藤工作室"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 59367
   },
   {
-    "offerId": 60255,
     "sortNumber": 442,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17502,12 +17500,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "明德立人"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 60255
   },
   {
-    "offerId": 60260,
     "sortNumber": 443,
-    "admissionTotalNumber": 2,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17546,12 +17544,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "明德立人"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 60260
   },
   {
-    "offerId": 60570,
     "sortNumber": 444,
-    "admissionTotalNumber": 1,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17589,12 +17587,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "澳盛教育"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60570
   },
   {
-    "offerId": 60423,
     "sortNumber": 445,
-    "admissionTotalNumber": 3,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17632,12 +17630,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "美东学苑"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 60423
   },
   {
-    "offerId": 60434,
     "sortNumber": 446,
-    "admissionTotalNumber": 4,
     "highSchool": {
       "countClick": 0,
       "cityId": 10000,
@@ -17675,6 +17673,8 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "领航学漾"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 60434
   }
 ]

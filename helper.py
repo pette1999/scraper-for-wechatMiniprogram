@@ -1,17 +1,26 @@
 import json
 import csv
 import os
+from tqdm import tqdm
 
 def createCSV(filename, header):
     with open(filename, 'w', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(header)
-        
+
 def writeToFile(filename, data):
     with open(filename, 'a', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
         # write the data
         writer.writerow(data)
+
+def readCol(filename, colName):
+    id = []
+    file = csv.DictReader(open(filename, 'r'))
+    for col in file:
+        id.append(col[colName])
+
+    return id
 
 def removeJsonFile(filePath):
     if os.path.exists(filePath):
@@ -27,7 +36,7 @@ def clearCSVfile(filename, header):
         pass
 
 def writeCollege(filename):
-    clearCSVfile(filename, ['rank#','admissionTotalNumber','University','University','isPiublic','website'])
+    clearCSVfile(filename, ['rank#','admissionTotalNumber','大学','University','isPiublic','website'])
     f = open('./data/json/colleges.json')
     # returns JSON object as
     # a dictionary
@@ -44,13 +53,14 @@ def writeCollege(filename):
         writeToFile(filename,d)
 
 def writeChineseHighSchool(filename):
-    clearCSVfile(filename, ['rank#','admissionTotalNumber','学校','城市','service'])
+    clearCSVfile(filename, ['rank#','id','admissionTotalNumber','学校','城市','service'])
     f = open('./data/json/chineseHighSchools.json')
     data = json.load(f)
 
     for i in data:
         d = []
         d.append(i['sortNumber'])
+        d.append(i['highSchool'].get('id'))
         d.append(i['admissionTotalNumber'])
         d.append(i['highSchool'].get('title'))
         d.append(i['highSchool'].get('svCityName'))
@@ -58,12 +68,13 @@ def writeChineseHighSchool(filename):
         writeToFile(filename, d)
 
 def writeInternationalHighSchool(filename):
-    clearCSVfile(filename, ['rank#','admissionTotalNumber','school','学校','国家','isPublic'])
+    clearCSVfile(filename, ['rank#','id','admissionTotalNumber','school','学校','国家','isPublic'])
     f = open('./data/json/internationalHighSchools.json')
     data = json.load(f)
     for i in data:
         d = []
         d.append(i['sortNumber'])
+        d.append(i['highSchool'].get('id'))
         d.append(i['admissionTotalNumber'])
         d.append(i['highSchool'].get('title'))
         d.append(i['highSchool'].get('titleEn'))
@@ -88,3 +99,44 @@ def writeAdvisors(filename):
         d.append(i['adviser'].get('special'))
         d.append(i['adviser'].get('wechat'))
         writeToFile(filename, d)
+
+def writeChineseHighDetail(filename):
+    university = ['学校'] + readCol('./data/csv/colleges.csv', '大学')
+    highschools = readCol('./data/csv/chineseHighSchools.csv', '学校')
+    clearCSVfile(filename, university)
+    f = open('./data/json/chineseHighDetails.json')
+    data = json.load(f)
+    for i in tqdm(range(len(data))):
+        row = [highschools[i]]
+        for j in university[1:]:
+            index = 0
+            for k in data[i]:
+                index += 1
+                if k['college'].get('title') == j:
+                    row.append(k['admissionTotalNumber'])
+                    break
+                if index == len(data[i]):
+                    row.append('')
+        writeToFile(filename,row)
+
+def writeInternationalHighDetail(filename):
+    university = ['Schools'] + readCol('./data/csv/colleges.csv', '大学')
+    highschools = readCol('./data/csv/internationalHighSchools.csv', 'school')
+    clearCSVfile(filename, university)
+    f = open('./data/json/internationalHighDetails.json')
+    data = json.load(f)
+    for i in tqdm(range(len(data))):
+        row = [highschools[i]]
+        for j in university[1:]:
+            index = 0
+            for k in data[i]:
+                index += 1
+                if k['college'].get('title') == j:
+                    row.append(k['admissionTotalNumber'])
+                    break
+                if index == len(data[i]):
+                    row.append('')
+        writeToFile(filename, row)
+
+
+writeInternationalHighDetail('./data/csv/internationalHighDetails.csv')
