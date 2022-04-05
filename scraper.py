@@ -125,5 +125,26 @@ def grabInternationalHighDetails():
     with open('./data/json/internationalHighDetails.json', 'w', encoding='utf-8') as f:
         json.dump(school_details, f, ensure_ascii=False, indent=2)
 
+def grabAdvisorDetails():
+    grabAdvisors()
+    url = 'https://meiben666.com/api/mb/rank/offerListByAdviserRank'
+    advisor_details = []
+    ids = helper.readCol('./data/csv/advisors.csv', 'id')
+    for i in tqdm(ids):
+        time.sleep(1)
+        details = []
+        for j in tqdm(range(10)):
+            data = '{"openid":1,"adviserId":"' + i + '","year":"2022","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"0","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
+            try:
+                resp = requests.post(url, headers=headers, data=data)
+                for k in resp.json().get('rankList'):
+                    details.append(k)
+            except:
+                pass
+        advisor_details.append(details)
+    helper.removeJsonFile('./data/json/advisorDetails.json')
+    with open('./data/json/advisorDetails.json', 'w', encoding='utf-8') as f:
+        json.dump(advisor_details, f, ensure_ascii=False, indent=2)
 
-grabInternationalHighDetails()
+
+grabAdvisorDetails()

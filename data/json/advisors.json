@@ -148,7 +148,7 @@
       "gotScore": 10,
       "createUser": "系统"
     },
-    "admissionTotalNumber": 270
+    "admissionTotalNumber": 274
   },
   {
     "sortNumber": 4,
@@ -348,7 +348,7 @@
       "gotScore": 10,
       "createUser": "系统"
     },
-    "admissionTotalNumber": 268
+    "admissionTotalNumber": 269
   },
   {
     "sortNumber": 8,
@@ -397,7 +397,7 @@
       "gotScore": 10,
       "createUser": "系统"
     },
-    "admissionTotalNumber": 284
+    "admissionTotalNumber": 332
   },
   {
     "sortNumber": 9,
@@ -433,7 +433,7 @@
       "isPublic": 0,
       "coverPic": "/static/commons/img/picDefault.jpg",
       "svAuditName": "已通过",
-      "countGood": 18,
+      "countGood": 20,
       "website": "https://ingeniusprep.cn/",
       "address": "北京丨朝外大街乙6号 朝外SOHO C座0835；上海丨淮海中路1045号淮海国际广场4205；广州丨天河区林和西路9号耀中广场B栋3706；深圳丨福华三路168号 荣超国际商会中心1202；成都丨红星路三段1号国际金融中心三号楼40楼4003  8楼3809",
       "introduce": "引知成立于耶鲁，服务于全球，秉承着精英教育理念，力求为学生提供高质量的升学指导。团队包括百余位美国名校前招生官、英美名校毕业的外方顾问及中方顾问，为学生的高中规划和大学申请保驾护航。还有美国大学各专业学者，为学生提供独特的学术项目机会，提升学术背景。",
@@ -907,7 +907,7 @@
       "gotScore": 10,
       "createUser": "系统"
     },
-    "admissionTotalNumber": 174
+    "admissionTotalNumber": 175
   },
   {
     "sortNumber": 19,
@@ -958,7 +958,7 @@
       "gotScore": 10,
       "createUser": "系统"
     },
-    "admissionTotalNumber": 102
+    "admissionTotalNumber": 103
   },
   {
     "sortNumber": 20,
@@ -1194,7 +1194,7 @@
       "gotScore": 10,
       "createUser": "系统"
     },
-    "admissionTotalNumber": 27
+    "admissionTotalNumber": 51
   },
   {
     "sortNumber": 25,
