@@ -82,7 +82,7 @@ def grabAdvisors():
         json.dump(advisors, f, ensure_ascii=False, indent=2)
     helper.writeAdvisors('./data/csv/advisors.csv')
 
-def grabChineseHighDetails():
+def grabChineseHighDetails(year):
     # grabChinaHighSchools()
     url = 'https://meiben666.com/api/mb/rank/offerListByHighSchool'
     school_details = []
@@ -91,7 +91,7 @@ def grabChineseHighDetails():
         time.sleep(1)
         details = []
         for j in tqdm(range(10)):
-            data = '{"openid":1,"highSchoolId":"' + i + '","year":"2022","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"1","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
+            data = '{"openid":1,"highSchoolId":"' + i + '","year":"' + year + '","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"1","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
             try:
                 resp = requests.post(url, headers=headers, data=data)
                 for k in resp.json().get('rankList'):
@@ -99,21 +99,24 @@ def grabChineseHighDetails():
             except:
                 pass
         school_details.append(details)
+    filename_json = './data/json/chineseHighDetails' + year + '.json'
+    filename_csv = './data/csv/chineseHighDetails' + year + '.csv'
     # Clean up the json file
-    helper.removeJsonFile('./data/json/chineseHighDetails.json')
-    with open('./data/json/chineseHighDetails.json', 'w', encoding='utf-8') as f:
+    helper.removeJsonFile(filename_json)
+    with open(filename_json, 'w', encoding='utf-8') as f:
         json.dump(school_details, f, ensure_ascii=False, indent=2)
+    helper.writeChineseHighDetail(year, filename_csv)
 
-def grabInternationalHighDetails():
-    grabInternationalHighSchools()
+def grabInternationalHighDetails(year):
+    # grabInternationalHighSchools()
     url = 'https://meiben666.com/api/mb/rank/offerListByHighSchool'
     school_details = []
     ids = helper.readCol('./data/csv/internationalHighSchools.csv', 'id')
     for i in tqdm(ids):
         time.sleep(1)
         details = []
-        for j in tqdm(range(5)):
-            data = '{"openid":1,"highSchoolId":"' + i + '","year":"2022","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"2","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
+        for j in tqdm(range(10)):
+            data = '{"openid":1,"highSchoolId":"' + i + '","year":"' + year + '","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"2","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
             try:
                 resp = requests.post(url, headers=headers, data=data)
                 for k in resp.json().get('rankList'):
@@ -121,11 +124,14 @@ def grabInternationalHighDetails():
             except:
                 pass
         school_details.append(details)
-    helper.removeJsonFile('./data/json/internationalHighDetails.json')
-    with open('./data/json/internationalHighDetails.json', 'w', encoding='utf-8') as f:
+    filename_json = './data/json/internationalHighDetails' + year + '.json'
+    filename_csv = './data/csv/internationalHighDetails' + year + '.csv'
+    helper.removeJsonFile(filename_json)
+    with open(filename_json, 'w', encoding='utf-8') as f:
         json.dump(school_details, f, ensure_ascii=False, indent=2)
+    helper.writeInternationalHighDetail(year, filename_csv)
 
-def grabAdvisorDetails():
+def grabAdvisorDetails(year):
     grabAdvisors()
     url = 'https://meiben666.com/api/mb/rank/offerListByAdviserRank'
     advisor_details = []
@@ -134,7 +140,7 @@ def grabAdvisorDetails():
         time.sleep(1)
         details = []
         for j in tqdm(range(10)):
-            data = '{"openid":1,"adviserId":"' + i + '","year":"2022","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"0","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
+            data = '{"openid":1,"adviserId":"' + i + '","year":"' + year + '","pn":' + str(j+1) + ',"size":15,"childPn":1,"childSize":3,"parentHighSchoolContry":"0","parentComProvinceId":"0","parentOfferLabel":"","parentEduLevel":"bk"}'
             try:
                 resp = requests.post(url, headers=headers, data=data)
                 for k in resp.json().get('rankList'):
@@ -142,9 +148,9 @@ def grabAdvisorDetails():
             except:
                 pass
         advisor_details.append(details)
-    helper.removeJsonFile('./data/json/advisorDetails.json')
-    with open('./data/json/advisorDetails.json', 'w', encoding='utf-8') as f:
+    filename_json = './data/json/advisorDetails' + year + '.json'
+    filename_csv = './data/csv/advisorDetails' + year + '.csv'
+    helper.removeJsonFile(filename_json)
+    with open(filename_json, 'w', encoding='utf-8') as f:
         json.dump(advisor_details, f, ensure_ascii=False, indent=2)
-
-
-grabAdvisorDetails()
+    helper.writeAdvisorDetail('2021', filename_csv)

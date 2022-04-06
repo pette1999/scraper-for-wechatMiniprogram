@@ -29,11 +29,11 @@ def removeJsonFile(filePath):
         print("Can not delete the file as it doesn't exists")
 
 def clearCSVfile(filename, header):
-    try:
+    if os.path.exists(filename):
         os.remove(filename)
-        createCSV(filename, header)
-    except:
-        pass
+    else:
+        print("Can not delete the file as it doesn't exists")
+    createCSV(filename, header)
 
 def writeCollege(filename):
     clearCSVfile(filename, ['rank#','admissionTotalNumber','大学','University','isPiublic','website'])
@@ -101,11 +101,12 @@ def writeAdvisors(filename):
         d.append(i['adviser'].get('wechat'))
         writeToFile(filename, d)
 
-def writeChineseHighDetail(filename):
+def writeChineseHighDetail(year, filename):
     university = ['学校'] + readCol('./data/csv/colleges.csv', '大学')
     highschools = readCol('./data/csv/chineseHighSchools.csv', '学校')
     clearCSVfile(filename, university)
-    f = open('./data/json/chineseHighDetails.json')
+    filename_json = './data/json/chineseHighDetails' + year + '.json'
+    f = open(filename_json)
     data = json.load(f)
     for i in tqdm(range(len(data))):
         row = [highschools[i]]
@@ -120,11 +121,12 @@ def writeChineseHighDetail(filename):
                     row.append('')
         writeToFile(filename,row)
 
-def writeInternationalHighDetail(filename):
-    university = ['Schools'] + readCol('./data/csv/colleges.csv', '大学')
+def writeInternationalHighDetail(year, filename):
+    university = ['School'] + readCol('./data/csv/colleges.csv', '大学')
     highschools = readCol('./data/csv/internationalHighSchools.csv', 'school')
     clearCSVfile(filename, university)
-    f = open('./data/json/internationalHighDetails.json')
+    filename_json = './data/json/internationalHighDetails' + year + '.json'
+    f = open(filename_json)
     data = json.load(f)
     for i in tqdm(range(len(data))):
         row = [highschools[i]]
@@ -139,11 +141,12 @@ def writeInternationalHighDetail(filename):
                     row.append('')
         writeToFile(filename, row)
 
-def writeAdvisorDetail(filename):
-    university = ['机构'] + readCol('./data/csv/colleges.csv', '大学')
+def writeAdvisorDetail(year, filename):
+    university = ['Advisor'] + readCol('./data/csv/colleges.csv', '大学')
     advisors = readCol('./data/csv/advisors.csv', '机构')
     clearCSVfile(filename, university)
-    f = open('./data/json/advisorDetails.json')
+    filename_json = './data/json/advisorDetails' + year + '.json'
+    f = open(filename_json)
     data = json.load(f)
     for i in tqdm(range(len(data))):
         row = [advisors[i]]
@@ -158,4 +161,3 @@ def writeAdvisorDetail(filename):
                     row.append('')
         writeToFile(filename, row)
 
-writeAdvisorDetail('./data/csv/advisorDetails.csv')
