@@ -83,7 +83,8 @@ def grabAdvisors():
     helper.writeAdvisors('./data/csv/advisors.csv')
 
 def grabChineseHighDetails(year):
-    # grabChinaHighSchools()
+    grabColleges()
+    grabChinaHighSchools()
     url = 'https://meiben666.com/api/mb/rank/offerListByHighSchool'
     school_details = []
     ids = helper.readCol('./data/csv/chineseHighSchools.csv', 'id')
@@ -108,7 +109,8 @@ def grabChineseHighDetails(year):
     helper.writeChineseHighDetail(year, filename_csv)
 
 def grabInternationalHighDetails(year):
-    # grabInternationalHighSchools()
+    grabColleges()
+    grabInternationalHighSchools()
     url = 'https://meiben666.com/api/mb/rank/offerListByHighSchool'
     school_details = []
     ids = helper.readCol('./data/csv/internationalHighSchools.csv', 'id')
@@ -132,6 +134,7 @@ def grabInternationalHighDetails(year):
     helper.writeInternationalHighDetail(year, filename_csv)
 
 def grabAdvisorDetails(year):
+    grabColleges()
     grabAdvisors()
     url = 'https://meiben666.com/api/mb/rank/offerListByAdviserRank'
     advisor_details = []

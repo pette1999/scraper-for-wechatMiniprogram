@@ -1,8 +1,6 @@
 [
   {
-    "offerId": 44551,
     "sortNumber": 1,
-    "admissionTotalNumber": 30,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 2,
@@ -42,12 +40,12 @@
       "auditStatus": 5,
       "gotScore": 9000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 32,
+    "offerId": 44551
   },
   {
-    "offerId": 45775,
     "sortNumber": 2,
-    "admissionTotalNumber": 17,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -82,12 +80,12 @@
       "auditStatus": 5,
       "gotScore": 9000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 45775
   },
   {
-    "offerId": 44363,
     "sortNumber": 3,
-    "admissionTotalNumber": 51,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -121,12 +119,12 @@
       "auditStatus": 5,
       "gotScore": 7500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 53,
+    "offerId": 44363
   },
   {
-    "offerId": 44868,
     "sortNumber": 4,
-    "admissionTotalNumber": 26,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -165,12 +163,12 @@
       "auditStatus": 5,
       "gotScore": 9000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 26,
+    "offerId": 44868
   },
   {
-    "offerId": 44520,
     "sortNumber": 5,
-    "admissionTotalNumber": 32,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -208,12 +206,12 @@
       "auditStatus": 5,
       "gotScore": 9000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 31,
+    "offerId": 44520
   },
   {
-    "offerId": 44801,
     "sortNumber": 6,
-    "admissionTotalNumber": 69,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -252,12 +250,12 @@
       "auditStatus": 5,
       "gotScore": 6000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 69,
+    "offerId": 44801
   },
   {
-    "offerId": 44505,
     "sortNumber": 7,
-    "admissionTotalNumber": 46,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -283,7 +281,7 @@
       "vipLevel": 1,
       "isPublic": 0,
       "svAuditName": "已通过",
-      "countGood": 64,
+      "countGood": 67,
       "website": "http://www.megoal.org/Stanford-University",
       "updateUser": "系统",
       "oldId": 7,
@@ -291,12 +289,12 @@
       "auditStatus": 5,
       "gotScore": 9000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 48,
+    "offerId": 44505
   },
   {
-    "offerId": 44711,
     "sortNumber": 8,
-    "admissionTotalNumber": 59,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -335,12 +333,12 @@
       "auditStatus": 5,
       "gotScore": 7500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 60,
+    "offerId": 44711
   },
   {
-    "offerId": 44727,
     "sortNumber": 9,
-    "admissionTotalNumber": 68,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -374,12 +372,12 @@
       "auditStatus": 5,
       "gotScore": 7500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 70,
+    "offerId": 44727
   },
   {
-    "offerId": 44803,
     "sortNumber": 10,
-    "admissionTotalNumber": 50,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -416,12 +414,12 @@
       "auditStatus": 5,
       "gotScore": 7500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 50,
+    "offerId": 44803
   },
   {
-    "offerId": 44173,
     "sortNumber": 11,
-    "admissionTotalNumber": 107,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -459,12 +457,12 @@
       "auditStatus": 5,
       "gotScore": 6000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 110,
+    "offerId": 44173
   },
   {
-    "offerId": 44864,
     "sortNumber": 12,
-    "admissionTotalNumber": 8,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -500,12 +498,12 @@
       "auditStatus": 5,
       "gotScore": 6000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 44864
   },
   {
-    "offerId": 45085,
     "sortNumber": 13,
-    "admissionTotalNumber": 29,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -543,12 +541,12 @@
       "auditStatus": 5,
       "gotScore": 4500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 30,
+    "offerId": 45085
   },
   {
-    "offerId": 44717,
     "sortNumber": 14,
-    "admissionTotalNumber": 46,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -581,12 +579,12 @@
       "auditStatus": 5,
       "gotScore": 4500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 47,
+    "offerId": 44717
   },
   {
-    "offerId": 44498,
     "sortNumber": 15,
-    "admissionTotalNumber": 109,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -620,12 +618,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 111,
+    "offerId": 44498
   },
   {
-    "offerId": 44102,
     "sortNumber": 16,
-    "admissionTotalNumber": 185,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -664,12 +662,12 @@
       "auditStatus": 5,
       "gotScore": 4500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 185,
+    "offerId": 44102
   },
   {
-    "offerId": 44299,
     "sortNumber": 17,
-    "admissionTotalNumber": 134,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -703,12 +701,12 @@
       "auditStatus": 5,
       "gotScore": 4500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 136,
+    "offerId": 44299
   },
   {
-    "offerId": 44098,
     "sortNumber": 18,
-    "admissionTotalNumber": 111,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -747,12 +745,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 113,
+    "offerId": 44098
   },
   {
-    "offerId": 44718,
     "sortNumber": 19,
-    "admissionTotalNumber": 26,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -789,12 +787,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 26,
+    "offerId": 44718
   },
   {
-    "offerId": 50939,
     "sortNumber": 20,
-    "admissionTotalNumber": 249,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -829,12 +827,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 249,
+    "offerId": 50939
   },
   {
-    "offerId": 48730,
     "sortNumber": 21,
-    "admissionTotalNumber": 269,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -868,12 +866,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 274,
+    "offerId": 48730
   },
   {
-    "offerId": 44497,
     "sortNumber": 22,
-    "admissionTotalNumber": 158,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -912,12 +910,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 158,
+    "offerId": 44497
   },
   {
-    "offerId": 44389,
     "sortNumber": 23,
-    "admissionTotalNumber": 50,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -955,12 +953,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 51,
+    "offerId": 44389
   },
   {
-    "offerId": 46501,
     "sortNumber": 24,
-    "admissionTotalNumber": 110,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -999,12 +997,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 116,
+    "offerId": 46501
   },
   {
-    "offerId": 44178,
     "sortNumber": 25,
-    "admissionTotalNumber": 181,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1041,12 +1039,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 184,
+    "offerId": 44178
   },
   {
-    "offerId": 44231,
     "sortNumber": 26,
-    "admissionTotalNumber": 219,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1085,12 +1083,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 220,
+    "offerId": 44231
   },
   {
-    "offerId": 48867,
     "sortNumber": 27,
-    "admissionTotalNumber": 293,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -1128,12 +1126,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 301,
+    "offerId": 48867
   },
   {
-    "offerId": 44370,
     "sortNumber": 28,
-    "admissionTotalNumber": 62,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1172,12 +1170,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 64,
+    "offerId": 44370
   },
   {
-    "offerId": 44108,
     "sortNumber": 29,
-    "admissionTotalNumber": 45,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -1215,12 +1213,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 46,
+    "offerId": 44108
   },
   {
-    "offerId": 46368,
     "sortNumber": 30,
-    "admissionTotalNumber": 236,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1257,12 +1255,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 246,
+    "offerId": 46368
   },
   {
-    "offerId": 44493,
     "sortNumber": 31,
-    "admissionTotalNumber": 642,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1300,12 +1298,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 655,
+    "offerId": 44493
   },
   {
-    "offerId": 26152,
     "sortNumber": 32,
-    "admissionTotalNumber": 549,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -1341,12 +1339,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 584,
+    "offerId": 26152
   },
   {
-    "offerId": 25020,
     "sortNumber": 33,
-    "admissionTotalNumber": 69,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1382,12 +1380,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 71,
+    "offerId": 25020
   },
   {
-    "offerId": 44515,
     "sortNumber": 34,
-    "admissionTotalNumber": 27,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1424,12 +1422,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 27,
+    "offerId": 44515
   },
   {
-    "offerId": 44517,
     "sortNumber": 35,
-    "admissionTotalNumber": 10,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1466,12 +1464,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 44517
   },
   {
-    "offerId": 44190,
     "sortNumber": 36,
-    "admissionTotalNumber": 18,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -1508,12 +1506,12 @@
       "auditStatus": 5,
       "gotScore": 6000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 18,
+    "offerId": 44190
   },
   {
-    "offerId": 52620,
     "sortNumber": 37,
-    "admissionTotalNumber": 10,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -1551,12 +1549,12 @@
       "auditStatus": 5,
       "gotScore": 6000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 52620
   },
   {
-    "offerId": 45182,
     "sortNumber": 38,
-    "admissionTotalNumber": 31,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1592,12 +1590,12 @@
       "auditStatus": 5,
       "gotScore": 6000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 31,
+    "offerId": 45182
   },
   {
-    "offerId": 45324,
     "sortNumber": 39,
-    "admissionTotalNumber": 16,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1633,12 +1631,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 16,
+    "offerId": 45324
   },
   {
-    "offerId": 44235,
     "sortNumber": 40,
-    "admissionTotalNumber": 40,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1676,12 +1674,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 41,
+    "offerId": 44235
   },
   {
-    "offerId": 45565,
     "sortNumber": 41,
-    "admissionTotalNumber": 8,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1718,12 +1716,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 45565
   },
   {
-    "offerId": 44506,
     "sortNumber": 42,
-    "admissionTotalNumber": 18,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -1760,12 +1758,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 18,
+    "offerId": 44506
   },
   {
-    "offerId": 44245,
     "sortNumber": 43,
-    "admissionTotalNumber": 42,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1802,12 +1800,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 42,
+    "offerId": 44245
   },
   {
-    "offerId": 44104,
     "sortNumber": 44,
-    "admissionTotalNumber": 28,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1844,12 +1842,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 28,
+    "offerId": 44104
   },
   {
-    "offerId": 44458,
     "sortNumber": 45,
-    "admissionTotalNumber": 193,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1887,12 +1885,12 @@
       "auditStatus": 5,
       "gotScore": 6000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 193,
+    "offerId": 44458
   },
   {
-    "offerId": 46299,
     "sortNumber": 46,
-    "admissionTotalNumber": 212,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1930,12 +1928,12 @@
       "auditStatus": 5,
       "gotScore": 6000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 213,
+    "offerId": 46299
   },
   {
-    "offerId": 51551,
     "sortNumber": 47,
-    "admissionTotalNumber": 19,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -1973,12 +1971,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 20,
+    "offerId": 51551
   },
   {
-    "offerId": 44101,
     "sortNumber": 48,
-    "admissionTotalNumber": 181,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2015,12 +2013,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 181,
+    "offerId": 44101
   },
   {
-    "offerId": 44419,
     "sortNumber": 49,
-    "admissionTotalNumber": 254,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2056,12 +2054,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 277,
+    "offerId": 44419
   },
   {
-    "offerId": 44136,
     "sortNumber": 50,
-    "admissionTotalNumber": 22,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2098,12 +2096,12 @@
       "auditStatus": 5,
       "gotScore": 3000,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 22,
+    "offerId": 44136
   },
   {
-    "offerId": 44533,
     "sortNumber": 51,
-    "admissionTotalNumber": 24,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -2140,12 +2138,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 24,
+    "offerId": 44533
   },
   {
-    "offerId": 44221,
     "sortNumber": 52,
-    "admissionTotalNumber": 32,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -2181,12 +2179,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 33,
+    "offerId": 44221
   },
   {
-    "offerId": 45028,
     "sortNumber": 53,
-    "admissionTotalNumber": 31,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -2224,12 +2222,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 31,
+    "offerId": 45028
   },
   {
-    "offerId": 44239,
     "sortNumber": 54,
-    "admissionTotalNumber": 29,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -2265,12 +2263,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 29,
+    "offerId": 44239
   },
   {
-    "offerId": 45026,
     "sortNumber": 55,
-    "admissionTotalNumber": 23,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -2308,12 +2306,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 23,
+    "offerId": 45026
   },
   {
-    "offerId": 44177,
     "sortNumber": 56,
-    "admissionTotalNumber": 149,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -2347,12 +2345,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 151,
+    "offerId": 44177
   },
   {
-    "offerId": 52573,
     "sortNumber": 57,
-    "admissionTotalNumber": 192,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -2386,12 +2384,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 197,
+    "offerId": 52573
   },
   {
-    "offerId": 44154,
     "sortNumber": 58,
-    "admissionTotalNumber": 93,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2428,12 +2426,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 94,
+    "offerId": 44154
   },
   {
-    "offerId": 51479,
     "sortNumber": 59,
-    "admissionTotalNumber": 245,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -2467,12 +2465,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 251,
+    "offerId": 51479
   },
   {
-    "offerId": 44153,
     "sortNumber": 60,
-    "admissionTotalNumber": 46,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -2505,12 +2503,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 47,
+    "offerId": 44153
   },
   {
-    "offerId": 44402,
     "sortNumber": 61,
-    "admissionTotalNumber": 75,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2549,12 +2547,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 78,
+    "offerId": 44402
   },
   {
-    "offerId": 50934,
     "sortNumber": 62,
-    "admissionTotalNumber": 567,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2591,12 +2589,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 583,
+    "offerId": 50934
   },
   {
-    "offerId": 46498,
     "sortNumber": 63,
-    "admissionTotalNumber": 18,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2633,12 +2631,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 20,
+    "offerId": 46498
   },
   {
-    "offerId": 44244,
     "sortNumber": 64,
-    "admissionTotalNumber": 80,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -2671,12 +2669,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 81,
+    "offerId": 44244
   },
   {
-    "offerId": 44365,
     "sortNumber": 65,
-    "admissionTotalNumber": 288,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2714,12 +2712,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 299,
+    "offerId": 44365
   },
   {
-    "offerId": 44452,
     "sortNumber": 66,
-    "admissionTotalNumber": 12,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -2752,12 +2750,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44452
   },
   {
-    "offerId": 44121,
     "sortNumber": 67,
-    "admissionTotalNumber": 99,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2794,12 +2792,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 100,
+    "offerId": 44121
   },
   {
-    "offerId": 46497,
     "sortNumber": 68,
-    "admissionTotalNumber": 183,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2836,12 +2834,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 186,
+    "offerId": 46497
   },
   {
-    "offerId": 44937,
     "sortNumber": 69,
-    "admissionTotalNumber": 617,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -2878,12 +2876,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 626,
+    "offerId": 44937
   },
   {
-    "offerId": 44257,
     "sortNumber": 70,
-    "admissionTotalNumber": 7,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -2921,12 +2919,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44257
   },
   {
-    "offerId": 44109,
     "sortNumber": 71,
-    "admissionTotalNumber": 251,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -2964,12 +2962,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 259,
+    "offerId": 44109
   },
   {
-    "offerId": 44768,
     "sortNumber": 72,
-    "admissionTotalNumber": 20,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -3007,12 +3005,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 20,
+    "offerId": 44768
   },
   {
-    "offerId": 44182,
     "sortNumber": 73,
-    "admissionTotalNumber": 360,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -3050,12 +3048,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 362,
+    "offerId": 44182
   },
   {
-    "offerId": 46074,
     "sortNumber": 74,
-    "admissionTotalNumber": 60,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -3092,12 +3090,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 61,
+    "offerId": 46074
   },
   {
-    "offerId": 44870,
     "sortNumber": 75,
-    "admissionTotalNumber": 29,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -3134,12 +3132,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 29,
+    "offerId": 44870
   },
   {
-    "offerId": 46262,
     "sortNumber": 76,
-    "admissionTotalNumber": 8,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -3176,12 +3174,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 46262
   },
   {
-    "offerId": 46537,
     "sortNumber": 77,
-    "admissionTotalNumber": 3,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3217,12 +3215,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 46537
   },
   {
-    "offerId": 44110,
     "sortNumber": 78,
-    "admissionTotalNumber": 20,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3259,12 +3257,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 21,
+    "offerId": 44110
   },
   {
-    "offerId": 44616,
     "sortNumber": 79,
-    "admissionTotalNumber": 15,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3302,12 +3300,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 15,
+    "offerId": 44616
   },
   {
-    "offerId": 44386,
     "sortNumber": 80,
-    "admissionTotalNumber": 15,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3343,12 +3341,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 16,
+    "offerId": 44386
   },
   {
-    "offerId": 44200,
     "sortNumber": 81,
-    "admissionTotalNumber": 20,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3385,12 +3383,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 20,
+    "offerId": 44200
   },
   {
-    "offerId": 44766,
     "sortNumber": 82,
-    "admissionTotalNumber": 14,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3427,12 +3425,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 14,
+    "offerId": 44766
   },
   {
-    "offerId": 44709,
     "sortNumber": 83,
-    "admissionTotalNumber": 27,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3470,12 +3468,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 27,
+    "offerId": 44709
   },
   {
-    "offerId": 44421,
     "sortNumber": 84,
-    "admissionTotalNumber": 26,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3512,12 +3510,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 26,
+    "offerId": 44421
   },
   {
-    "offerId": 45285,
     "sortNumber": 85,
-    "admissionTotalNumber": 4,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3554,12 +3552,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 45285
   },
   {
-    "offerId": 44314,
     "sortNumber": 86,
-    "admissionTotalNumber": 47,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3596,12 +3594,12 @@
       "auditStatus": 5,
       "gotScore": 1500,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 46,
+    "offerId": 44314
   },
   {
-    "offerId": 44172,
     "sortNumber": 87,
-    "admissionTotalNumber": 41,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3639,12 +3637,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 41,
+    "offerId": 44172
   },
   {
-    "offerId": 44133,
     "sortNumber": 88,
-    "admissionTotalNumber": 23,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3681,12 +3679,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 23,
+    "offerId": 44133
   },
   {
-    "offerId": 44250,
     "sortNumber": 89,
-    "admissionTotalNumber": 12,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3723,12 +3721,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44250
   },
   {
-    "offerId": 45035,
     "sortNumber": 90,
-    "admissionTotalNumber": 15,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3764,12 +3762,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 15,
+    "offerId": 45035
   },
   {
-    "offerId": 46779,
     "sortNumber": 91,
-    "admissionTotalNumber": 5,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3806,12 +3804,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 46779
   },
   {
-    "offerId": 44326,
     "sortNumber": 92,
-    "admissionTotalNumber": 11,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3848,12 +3846,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 44326
   },
   {
-    "offerId": 44548,
     "sortNumber": 93,
-    "admissionTotalNumber": 31,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3890,12 +3888,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 34,
+    "offerId": 44548
   },
   {
-    "offerId": 48651,
     "sortNumber": 94,
-    "admissionTotalNumber": 38,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3931,12 +3929,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 39,
+    "offerId": 48651
   },
   {
-    "offerId": 44529,
     "sortNumber": 95,
-    "admissionTotalNumber": 28,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -3973,12 +3971,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 28,
+    "offerId": 44529
   },
   {
-    "offerId": 52578,
     "sortNumber": 96,
-    "admissionTotalNumber": 3,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4015,12 +4013,12 @@
       "auditStatus": 5,
       "gotScore": 900,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 52578
   },
   {
-    "offerId": 44720,
     "sortNumber": 97,
-    "admissionTotalNumber": 40,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4058,12 +4056,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 40,
+    "offerId": 44720
   },
   {
-    "offerId": 44259,
     "sortNumber": 98,
-    "admissionTotalNumber": 13,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -4096,12 +4094,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 14,
+    "offerId": 44259
   },
   {
-    "offerId": 44525,
     "sortNumber": 99,
-    "admissionTotalNumber": 37,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4137,12 +4135,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 37,
+    "offerId": 44525
   },
   {
-    "offerId": 39703,
     "sortNumber": 100,
-    "admissionTotalNumber": 64,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4179,12 +4177,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 64,
+    "offerId": 39703
   },
   {
-    "offerId": 44808,
     "sortNumber": 101,
-    "admissionTotalNumber": 85,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4222,12 +4220,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 90,
+    "offerId": 44808
   },
   {
-    "offerId": 50852,
     "sortNumber": 102,
-    "admissionTotalNumber": 39,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4263,12 +4261,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 41,
+    "offerId": 50852
   },
   {
-    "offerId": 46557,
     "sortNumber": 103,
-    "admissionTotalNumber": 14,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4306,12 +4304,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 15,
+    "offerId": 46557
   },
   {
-    "offerId": 49753,
     "sortNumber": 104,
-    "admissionTotalNumber": 19,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4348,12 +4346,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 20,
+    "offerId": 49753
   },
   {
-    "offerId": 44987,
     "sortNumber": 105,
-    "admissionTotalNumber": 53,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4390,12 +4388,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 55,
+    "offerId": 44987
   },
   {
-    "offerId": 50137,
     "sortNumber": 106,
-    "admissionTotalNumber": 69,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4432,12 +4430,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 70,
+    "offerId": 50137
   },
   {
-    "offerId": 44197,
     "sortNumber": 107,
-    "admissionTotalNumber": 65,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4473,12 +4471,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 67,
+    "offerId": 44197
   },
   {
-    "offerId": 44767,
     "sortNumber": 108,
-    "admissionTotalNumber": 12,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4515,12 +4513,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44767
   },
   {
-    "offerId": 44532,
     "sortNumber": 109,
-    "admissionTotalNumber": 63,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -4559,12 +4557,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 64,
+    "offerId": 44532
   },
   {
-    "offerId": 44138,
     "sortNumber": 110,
-    "admissionTotalNumber": 49,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4600,12 +4598,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 49,
+    "offerId": 44138
   },
   {
-    "offerId": 39695,
     "sortNumber": 111,
-    "admissionTotalNumber": 48,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4642,12 +4640,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 48,
+    "offerId": 39695
   },
   {
-    "offerId": 44903,
     "sortNumber": 112,
-    "admissionTotalNumber": 1,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4684,12 +4682,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44903
   },
   {
-    "offerId": 44785,
     "sortNumber": 113,
-    "admissionTotalNumber": 62,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4726,12 +4724,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 62,
+    "offerId": 44785
   },
   {
-    "offerId": 44799,
     "sortNumber": 114,
-    "admissionTotalNumber": 2,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4768,12 +4766,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 44799
   },
   {
-    "offerId": 49855,
     "sortNumber": 115,
-    "admissionTotalNumber": 2,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4809,12 +4807,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 49855
   },
   {
-    "offerId": 44885,
     "sortNumber": 116,
-    "admissionTotalNumber": 7,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4851,12 +4849,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44885
   },
   {
-    "offerId": 55349,
     "sortNumber": 117,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -4888,12 +4886,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55349
   },
   {
-    "offerId": 46590,
     "sortNumber": 118,
-    "admissionTotalNumber": 2,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -4930,12 +4928,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46590
   },
   {
-    "offerId": 46084,
     "sortNumber": 119,
-    "admissionTotalNumber": 6,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -4969,12 +4967,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 46084
   },
   {
-    "offerId": 46756,
     "sortNumber": 120,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -5004,12 +5002,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46756
   },
   {
-    "offerId": 44479,
     "sortNumber": 121,
-    "admissionTotalNumber": 65,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -5047,12 +5045,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 66,
+    "offerId": 44479
   },
   {
-    "offerId": 44872,
     "sortNumber": 122,
-    "admissionTotalNumber": 6,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -5090,12 +5088,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44872
   },
   {
-    "offerId": 60427,
     "sortNumber": 123,
-    "admissionTotalNumber": 1,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -5133,12 +5131,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60427
   },
   {
-    "offerId": 51038,
     "sortNumber": 124,
-    "admissionTotalNumber": 54,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -5171,12 +5169,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 56,
+    "offerId": 51038
   },
   {
-    "offerId": 44139,
     "sortNumber": 125,
-    "admissionTotalNumber": 11,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -5206,12 +5204,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 44139
   },
   {
-    "offerId": 46081,
     "sortNumber": 126,
-    "admissionTotalNumber": 13,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5249,12 +5247,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 13,
+    "offerId": 46081
   },
   {
-    "offerId": 44269,
     "sortNumber": 127,
-    "admissionTotalNumber": 18,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5291,12 +5289,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 18,
+    "offerId": 44269
   },
   {
-    "offerId": 48517,
     "sortNumber": 128,
-    "admissionTotalNumber": 3,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5333,12 +5331,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 48517
   },
   {
-    "offerId": 48518,
     "sortNumber": 129,
-    "admissionTotalNumber": 1,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5375,12 +5373,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48518
   },
   {
-    "offerId": 44329,
     "sortNumber": 130,
-    "admissionTotalNumber": 4,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5418,12 +5416,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44329
   },
   {
-    "offerId": 44566,
     "sortNumber": 131,
-    "admissionTotalNumber": 7,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5460,12 +5458,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44566
   },
   {
-    "offerId": 44187,
     "sortNumber": 132,
-    "admissionTotalNumber": 7,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5501,12 +5499,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 44187
   },
   {
-    "offerId": 53305,
     "sortNumber": 133,
-    "admissionTotalNumber": 13,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5543,12 +5541,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 17,
+    "offerId": 53305
   },
   {
-    "offerId": 45557,
     "sortNumber": 134,
-    "admissionTotalNumber": 15,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5585,12 +5583,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 18,
+    "offerId": 45557
   },
   {
-    "offerId": 44573,
     "sortNumber": 135,
-    "admissionTotalNumber": 13,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5626,12 +5624,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 13,
+    "offerId": 44573
   },
   {
-    "offerId": 44856,
     "sortNumber": 136,
-    "admissionTotalNumber": 7,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -5663,12 +5661,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 44856
   },
   {
-    "offerId": 50540,
     "sortNumber": 137,
-    "admissionTotalNumber": 11,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -5700,12 +5698,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 50540
   },
   {
-    "offerId": 44571,
     "sortNumber": 138,
-    "admissionTotalNumber": 34,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5741,12 +5739,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 38,
+    "offerId": 44571
   },
   {
-    "offerId": 51354,
     "sortNumber": 139,
-    "admissionTotalNumber": 14,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5782,12 +5780,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 15,
+    "offerId": 51354
   },
   {
-    "offerId": 50397,
     "sortNumber": 140,
-    "admissionTotalNumber": 3,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -5820,12 +5818,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 55675
   },
   {
-    "offerId": 55894,
     "sortNumber": 141,
-    "admissionTotalNumber": 2,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5862,12 +5860,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 55894
   },
   {
-    "offerId": 45370,
     "sortNumber": 142,
-    "admissionTotalNumber": 6,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -5903,12 +5901,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 45370
   },
   {
-    "offerId": 48567,
     "sortNumber": 143,
-    "admissionTotalNumber": 8,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -5941,12 +5939,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 48567
   },
   {
-    "offerId": 45008,
     "sortNumber": 144,
-    "admissionTotalNumber": 4,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 668,
@@ -5982,12 +5980,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 45008
   },
   {
-    "offerId": 54708,
     "sortNumber": 145,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -6017,12 +6015,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 54708
   },
   {
-    "offerId": 51367,
     "sortNumber": 146,
-    "admissionTotalNumber": 9,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -6052,12 +6050,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 51367
   },
   {
-    "offerId": 55721,
     "sortNumber": 147,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -6087,12 +6085,12 @@
       "auditStatus": 5,
       "gotScore": 300,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 55721
   },
   {
-    "offerId": 46146,
     "sortNumber": 148,
-    "admissionTotalNumber": 5,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6131,12 +6129,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 46146
   },
   {
-    "offerId": 44519,
     "sortNumber": 149,
-    "admissionTotalNumber": 28,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6173,12 +6171,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 28,
+    "offerId": 44519
   },
   {
-    "offerId": 44366,
     "sortNumber": 150,
-    "admissionTotalNumber": 73,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6216,12 +6214,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 74,
+    "offerId": 44366
   },
   {
-    "offerId": 44863,
     "sortNumber": 151,
-    "admissionTotalNumber": 25,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6258,12 +6256,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 25,
+    "offerId": 44863
   },
   {
-    "offerId": 44407,
     "sortNumber": 152,
-    "admissionTotalNumber": 7,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6302,12 +6300,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 44407
   },
   {
-    "offerId": 46809,
     "sortNumber": 153,
-    "admissionTotalNumber": 4,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6345,12 +6343,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 46809
   },
   {
-    "offerId": 44723,
     "sortNumber": 154,
-    "admissionTotalNumber": 6,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6389,12 +6387,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44723
   },
   {
-    "offerId": 44633,
     "sortNumber": 155,
-    "admissionTotalNumber": 3,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6433,12 +6431,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44633
   },
   {
-    "offerId": 48656,
     "sortNumber": 156,
-    "admissionTotalNumber": 1,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6477,12 +6475,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48656
   },
   {
-    "offerId": 53302,
     "sortNumber": 157,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -6514,12 +6512,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 53302
   },
   {
-    "offerId": 60889,
     "sortNumber": 158,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -6551,12 +6549,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60889
   },
   {
-    "offerId": 45320,
     "sortNumber": 159,
-    "admissionTotalNumber": 8,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6594,12 +6592,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 45320
   },
   {
-    "offerId": 50053,
     "sortNumber": 160,
-    "admissionTotalNumber": 41,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -6631,12 +6629,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 43,
+    "offerId": 50053
   },
   {
-    "offerId": 46805,
     "sortNumber": 161,
-    "admissionTotalNumber": 2,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6674,12 +6672,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46805
   },
   {
-    "offerId": 52922,
     "sortNumber": 162,
-    "admissionTotalNumber": 4,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -6710,12 +6708,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 52922
   },
   {
-    "offerId": 46652,
     "sortNumber": 163,
-    "admissionTotalNumber": 1,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6752,12 +6750,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46652
   },
   {
-    "offerId": 49845,
     "sortNumber": 164,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -6788,12 +6786,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 49845
   },
   {
-    "offerId": 39705,
     "sortNumber": 165,
-    "admissionTotalNumber": 70,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6831,12 +6829,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 71,
+    "offerId": 39705
   },
   {
-    "offerId": 39694,
     "sortNumber": 166,
-    "admissionTotalNumber": 99,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6873,12 +6871,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 100,
+    "offerId": 39694
   },
   {
-    "offerId": 44601,
     "sortNumber": 167,
-    "admissionTotalNumber": 12,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6915,12 +6913,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44601
   },
   {
-    "offerId": 44207,
     "sortNumber": 168,
-    "admissionTotalNumber": 47,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6957,12 +6955,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 48,
+    "offerId": 44207
   },
   {
-    "offerId": 39696,
     "sortNumber": 169,
-    "admissionTotalNumber": 97,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -6999,12 +6997,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 100,
+    "offerId": 39696
   },
   {
-    "offerId": 39691,
     "sortNumber": 170,
-    "admissionTotalNumber": 217,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7042,12 +7040,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 221,
+    "offerId": 39691
   },
   {
-    "offerId": 46250,
     "sortNumber": 171,
-    "admissionTotalNumber": 384,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7084,12 +7082,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 394,
+    "offerId": 46250
   },
   {
-    "offerId": 58564,
     "sortNumber": 172,
-    "admissionTotalNumber": 9,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -7123,12 +7121,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 58564
   },
   {
-    "offerId": 39704,
     "sortNumber": 173,
-    "admissionTotalNumber": 58,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7165,12 +7163,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 59,
+    "offerId": 39704
   },
   {
-    "offerId": 44454,
     "sortNumber": 174,
-    "admissionTotalNumber": 35,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7208,12 +7206,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 35,
+    "offerId": 44454
   },
   {
-    "offerId": 59810,
     "sortNumber": 175,
-    "admissionTotalNumber": 1,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7250,12 +7248,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 59810
   },
   {
-    "offerId": 46083,
     "sortNumber": 176,
-    "admissionTotalNumber": 43,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7294,12 +7292,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 44,
+    "offerId": 46083
   },
   {
-    "offerId": 39701,
     "sortNumber": 177,
-    "admissionTotalNumber": 50,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7337,12 +7335,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 51,
+    "offerId": 39701
   },
   {
-    "offerId": 46642,
     "sortNumber": 178,
-    "admissionTotalNumber": 6,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7380,12 +7378,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 46642
   },
   {
-    "offerId": 51829,
     "sortNumber": 179,
-    "admissionTotalNumber": 6,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7423,12 +7421,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 51829
   },
   {
-    "offerId": 45195,
     "sortNumber": 180,
-    "admissionTotalNumber": 29,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7466,12 +7464,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 34,
+    "offerId": 45195
   },
   {
-    "offerId": 46671,
     "sortNumber": 181,
-    "admissionTotalNumber": 8,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7509,12 +7507,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 46671
   },
   {
-    "offerId": 53377,
     "sortNumber": 182,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -7546,12 +7544,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 53377
   },
   {
-    "offerId": 58703,
     "sortNumber": 183,
-    "admissionTotalNumber": 3,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -7584,12 +7582,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 58703
   },
   {
-    "offerId": 44225,
     "sortNumber": 184,
-    "admissionTotalNumber": 45,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7627,12 +7625,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 45,
+    "offerId": 44225
   },
   {
-    "offerId": 44388,
     "sortNumber": 185,
-    "admissionTotalNumber": 8,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -7664,12 +7662,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 44388
   },
   {
-    "offerId": 46193,
     "sortNumber": 186,
-    "admissionTotalNumber": 21,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7707,12 +7705,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 22,
+    "offerId": 46193
   },
   {
-    "offerId": 44095,
     "sortNumber": 187,
-    "admissionTotalNumber": 62,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7750,12 +7748,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 66,
+    "offerId": 44095
   },
   {
-    "offerId": 44214,
     "sortNumber": 188,
-    "admissionTotalNumber": 22,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7793,12 +7791,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 23,
+    "offerId": 44214
   },
   {
-    "offerId": 59772,
     "sortNumber": 189,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -7831,12 +7829,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 59772
   },
   {
-    "offerId": 49819,
     "sortNumber": 190,
-    "admissionTotalNumber": 4,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -7868,12 +7866,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 49819
   },
   {
-    "offerId": 51480,
     "sortNumber": 191,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -7905,12 +7903,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 51480
   },
   {
-    "offerId": 60479,
     "sortNumber": 192,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -7942,12 +7940,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60479
   },
   {
-    "offerId": 48589,
     "sortNumber": 193,
-    "admissionTotalNumber": 23,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -7985,12 +7983,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 26,
+    "offerId": 48589
   },
   {
-    "offerId": 46554,
     "sortNumber": 194,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8022,12 +8020,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 46554
   },
   {
-    "offerId": 45559,
     "sortNumber": 195,
-    "admissionTotalNumber": 5,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8059,12 +8057,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 45559
   },
   {
-    "offerId": 44096,
     "sortNumber": 196,
-    "admissionTotalNumber": 12,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8096,12 +8094,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 44096
   },
   {
-    "offerId": 49921,
     "sortNumber": 197,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8133,12 +8131,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 49921
   },
   {
-    "offerId": 45980,
     "sortNumber": 198,
-    "admissionTotalNumber": 10,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8170,12 +8168,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 45980
   },
   {
-    "offerId": 50778,
     "sortNumber": 199,
-    "admissionTotalNumber": 135,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8207,12 +8205,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 137,
+    "offerId": 50778
   },
   {
-    "offerId": 46381,
     "sortNumber": 200,
-    "admissionTotalNumber": 88,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8249,12 +8247,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 90,
+    "offerId": 46381
   },
   {
-    "offerId": 46399,
     "sortNumber": 201,
-    "admissionTotalNumber": 26,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8286,12 +8284,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 26,
+    "offerId": 46399
   },
   {
-    "offerId": 48568,
     "sortNumber": 202,
-    "admissionTotalNumber": 11,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8323,12 +8321,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 48568
   },
   {
-    "offerId": 44358,
     "sortNumber": 203,
-    "admissionTotalNumber": 19,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8360,12 +8358,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 19,
+    "offerId": 44358
   },
   {
-    "offerId": 54137,
     "sortNumber": 204,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8397,12 +8395,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54137
   },
   {
-    "offerId": 48520,
     "sortNumber": 205,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8434,12 +8432,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48520
   },
   {
-    "offerId": 46143,
     "sortNumber": 206,
-    "admissionTotalNumber": 5,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8472,12 +8470,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 46143
   },
   {
-    "offerId": 46220,
     "sortNumber": 207,
-    "admissionTotalNumber": 31,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8515,12 +8513,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 31,
+    "offerId": 46220
   },
   {
-    "offerId": 49613,
     "sortNumber": 208,
-    "admissionTotalNumber": 4,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8559,12 +8557,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 49613
   },
   {
-    "offerId": 46328,
     "sortNumber": 209,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8596,12 +8594,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46328
   },
   {
-    "offerId": 54210,
     "sortNumber": 210,
-    "admissionTotalNumber": 11,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8638,12 +8636,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 54210
   },
   {
-    "offerId": 59581,
     "sortNumber": 211,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8673,12 +8671,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 59581
   },
   {
-    "offerId": 52180,
     "sortNumber": 212,
-    "admissionTotalNumber": 4,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -8715,12 +8713,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 52180
   },
   {
-    "offerId": 51063,
     "sortNumber": 213,
-    "admissionTotalNumber": 3,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8752,12 +8750,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 51063
   },
   {
-    "offerId": 52263,
     "sortNumber": 214,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8788,12 +8786,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52263
   },
   {
-    "offerId": 50070,
     "sortNumber": 215,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8823,12 +8821,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 50070
   },
   {
-    "offerId": 52596,
     "sortNumber": 216,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8858,12 +8856,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52596
   },
   {
-    "offerId": 54688,
     "sortNumber": 217,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8893,12 +8891,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54688
   },
   {
-    "offerId": 46646,
     "sortNumber": 218,
-    "admissionTotalNumber": 10,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8928,12 +8926,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 46646
   },
   {
-    "offerId": 51787,
     "sortNumber": 219,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8963,12 +8961,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 51787
   },
   {
-    "offerId": 53508,
     "sortNumber": 220,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -8998,12 +8996,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 53508
   },
   {
-    "offerId": 51840,
     "sortNumber": 221,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9033,12 +9031,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 51840
   },
   {
-    "offerId": 49660,
     "sortNumber": 222,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9068,12 +9066,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 49660
   },
   {
-    "offerId": 44156,
     "sortNumber": 223,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9103,12 +9101,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44156
   },
   {
-    "offerId": 46254,
     "sortNumber": 224,
-    "admissionTotalNumber": 7,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9139,12 +9137,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 46254
   },
   {
-    "offerId": 46115,
     "sortNumber": 225,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9175,12 +9173,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46115
   },
   {
-    "offerId": 48606,
     "sortNumber": 226,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9210,12 +9208,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 48606
   },
   {
-    "offerId": 53639,
     "sortNumber": 227,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9245,12 +9243,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 53639
   },
   {
-    "offerId": 46651,
     "sortNumber": 228,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9280,12 +9278,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46651
   },
   {
-    "offerId": 52093,
     "sortNumber": 229,
-    "admissionTotalNumber": 2,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9315,12 +9313,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 52093
   },
   {
-    "offerId": 44271,
     "sortNumber": 230,
-    "admissionTotalNumber": 166,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9350,12 +9348,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 170,
+    "offerId": 44271
   },
   {
-    "offerId": 50309,
     "sortNumber": 231,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9386,12 +9384,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50309
   },
   {
-    "offerId": 44639,
     "sortNumber": 232,
-    "admissionTotalNumber": 6,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9421,12 +9419,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 44639
   },
   {
-    "offerId": 54495,
     "sortNumber": 233,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9456,12 +9454,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54495
   },
   {
-    "offerId": 50930,
     "sortNumber": 234,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9492,12 +9490,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 50930
   },
   {
-    "offerId": 60010,
     "sortNumber": 235,
-    "admissionTotalNumber": 3,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9528,12 +9526,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 60010
   },
   {
-    "offerId": 46125,
     "sortNumber": 236,
-    "admissionTotalNumber": 3,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9564,12 +9562,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 46125
   },
   {
-    "offerId": 55147,
     "sortNumber": 237,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9599,12 +9597,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55147
   },
   {
-    "offerId": 57345,
     "sortNumber": 238,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9634,12 +9632,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 57345
   },
   {
-    "offerId": 58063,
     "sortNumber": 239,
-    "admissionTotalNumber": 1,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9670,12 +9668,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58063
   },
   {
-    "offerId": 51017,
     "sortNumber": 240,
-    "admissionTotalNumber": 23,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9705,12 +9703,47 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 24,
+    "offerId": 51017
   },
   {
-    "offerId": 58065,
     "sortNumber": 241,
+    "college": {
+      "lastUpdateUid": 1,
+      "type": 2,
+      "rankWeight": 0,
+      "inOut": 1,
+      "logo": "/universityPic/20211204/1638617637491.jpg",
+      "svIsOnline": "已上线",
+      "id": 2427,
+      "createUid": 1,
+      "ranks": 10,
+      "titleEn": "University of Vermont",
+      "svLevelTitle": "普通组织",
+      "countryName": "美国",
+      "isBoarding": 0,
+      "lastUpdateTime": "2020-09-02 03:39:14",
+      "svTypeTitle": "大学",
+      "isOnline": 6,
+      "title": "佛蒙特大学",
+      "countryId": 2,
+      "vipLevel": 1,
+      "isPublic": 0,
+      "svAuditName": "已通过",
+      "countGood": 0,
+      "updateUser": "系统",
+      "oldId": 948,
+      "createTime": "2020-09-02 03:39:14",
+      "auditStatus": 5,
+      "gotScore": 100,
+      "createUser": "系统"
+    },
     "admissionTotalNumber": 1,
+    "offerId": 61486
+  },
+  {
+    "sortNumber": 242,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9740,12 +9773,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58065
   },
   {
-    "offerId": 58481,
-    "sortNumber": 242,
-    "admissionTotalNumber": 1,
+    "sortNumber": 243,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9775,12 +9808,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58481
   },
   {
-    "offerId": 55713,
-    "sortNumber": 243,
-    "admissionTotalNumber": 1,
+    "sortNumber": 244,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9811,12 +9844,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 55713
   },
   {
-    "offerId": 60813,
-    "sortNumber": 244,
-    "admissionTotalNumber": 1,
+    "sortNumber": 245,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9846,12 +9879,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60813
   },
   {
-    "offerId": 53616,
-    "sortNumber": 245,
-    "admissionTotalNumber": 3,
+    "sortNumber": 246,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9881,12 +9914,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 53616
   },
   {
-    "offerId": 50803,
-    "sortNumber": 246,
-    "admissionTotalNumber": 2,
+    "sortNumber": 247,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9916,12 +9949,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 50803
   },
   {
-    "offerId": 60388,
-    "sortNumber": 247,
-    "admissionTotalNumber": 1,
+    "sortNumber": 248,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9951,12 +9984,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60388
   },
   {
-    "offerId": 44619,
-    "sortNumber": 248,
-    "admissionTotalNumber": 2,
+    "sortNumber": 249,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -9986,12 +10019,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 44619
   },
   {
-    "offerId": 57186,
-    "sortNumber": 249,
-    "admissionTotalNumber": 5,
+    "sortNumber": 250,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10021,12 +10054,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 57186
   },
   {
-    "offerId": 48771,
-    "sortNumber": 250,
-    "admissionTotalNumber": 2,
+    "sortNumber": 251,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10056,12 +10089,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 48771
   },
   {
-    "offerId": 52090,
-    "sortNumber": 251,
-    "admissionTotalNumber": 1,
+    "sortNumber": 252,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10091,12 +10124,47 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52090
   },
   {
-    "offerId": 59266,
-    "sortNumber": 252,
-    "admissionTotalNumber": 2,
+    "sortNumber": 253,
+    "college": {
+      "lastUpdateUid": 1,
+      "type": 2,
+      "rankWeight": 0,
+      "inOut": 1,
+      "logo": "/universityPic/20211204/1638617889544.jpg",
+      "svIsOnline": "已上线",
+      "id": 2691,
+      "createUid": 1,
+      "ranks": 10,
+      "titleEn": "College of Mount Saint Vincent",
+      "svLevelTitle": "普通组织",
+      "countryName": "美国",
+      "isBoarding": 0,
+      "lastUpdateTime": "2020-09-06 07:16:27",
+      "svTypeTitle": "大学",
+      "isOnline": 6,
+      "title": "圣文森特山学院",
+      "countryId": 2,
+      "vipLevel": 1,
+      "isPublic": 0,
+      "svAuditName": "已通过",
+      "countGood": 0,
+      "updateUser": "系统",
+      "oldId": 1219,
+      "createTime": "2020-09-06 07:16:27",
+      "auditStatus": 5,
+      "gotScore": 100,
+      "createUser": "系统"
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 61191
+  },
+  {
+    "sortNumber": 254,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10126,12 +10194,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 59266
   },
   {
-    "offerId": 44415,
-    "sortNumber": 253,
-    "admissionTotalNumber": 1,
+    "sortNumber": 255,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10166,12 +10234,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44415
   },
   {
-    "offerId": 44427,
-    "sortNumber": 254,
-    "admissionTotalNumber": 1,
+    "sortNumber": 256,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10206,12 +10274,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44427
   },
   {
-    "offerId": 45063,
-    "sortNumber": 255,
-    "admissionTotalNumber": 1,
+    "sortNumber": 257,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10240,12 +10308,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 45063
   },
   {
-    "offerId": 44487,
-    "sortNumber": 256,
-    "admissionTotalNumber": 1,
+    "sortNumber": 258,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10274,12 +10342,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44487
   },
   {
-    "offerId": 46142,
-    "sortNumber": 257,
-    "admissionTotalNumber": 1,
+    "sortNumber": 259,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10309,12 +10377,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46142
   },
   {
-    "offerId": 45180,
-    "sortNumber": 258,
-    "admissionTotalNumber": 6,
+    "sortNumber": 260,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10343,12 +10411,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 6,
+    "offerId": 45180
   },
   {
-    "offerId": 46232,
-    "sortNumber": 259,
-    "admissionTotalNumber": 1,
+    "sortNumber": 261,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10378,12 +10446,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46232
   },
   {
-    "offerId": 44474,
-    "sortNumber": 260,
-    "admissionTotalNumber": 1,
+    "sortNumber": 262,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10412,12 +10480,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44474
   },
   {
-    "offerId": 46233,
-    "sortNumber": 261,
-    "admissionTotalNumber": 1,
+    "sortNumber": 263,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10447,12 +10515,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46233
   },
   {
-    "offerId": 46668,
-    "sortNumber": 262,
-    "admissionTotalNumber": 1,
+    "sortNumber": 264,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10482,12 +10550,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46668
   },
   {
-    "offerId": 44188,
-    "sortNumber": 263,
-    "admissionTotalNumber": 40,
+    "sortNumber": 265,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10524,12 +10592,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 41,
+    "offerId": 44188
   },
   {
-    "offerId": 44266,
-    "sortNumber": 264,
-    "admissionTotalNumber": 1,
+    "sortNumber": 266,
     "college": {
       "lastUpdateUid": 1,
       "type": 2,
@@ -10560,12 +10628,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 44266
   },
   {
-    "offerId": 46705,
-    "sortNumber": 265,
-    "admissionTotalNumber": 1,
+    "sortNumber": 267,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10602,12 +10670,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46705
   },
   {
-    "offerId": 46865,
-    "sortNumber": 266,
-    "admissionTotalNumber": 2,
+    "sortNumber": 268,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10644,12 +10712,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46865
   },
   {
-    "offerId": 44144,
-    "sortNumber": 267,
-    "admissionTotalNumber": 8,
+    "sortNumber": 269,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10687,12 +10755,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "系统"
-    }
+    },
+    "admissionTotalNumber": 8,
+    "offerId": 44144
   },
   {
-    "offerId": 44224,
-    "sortNumber": 268,
-    "admissionTotalNumber": 4,
+    "sortNumber": 270,
     "college": {
       "cityId": 10000,
       "lastUpdateUid": 193,
@@ -10725,12 +10793,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 44224
   },
   {
-    "offerId": 45975,
-    "sortNumber": 269,
-    "admissionTotalNumber": 3,
+    "sortNumber": 271,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -10767,12 +10835,12 @@
       "auditStatus": 0,
       "gotScore": 100,
       "createUser": "爱博"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 45975
   },
   {
-    "offerId": 46163,
-    "sortNumber": 270,
-    "admissionTotalNumber": 1,
+    "sortNumber": 272,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -10812,12 +10880,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "三士渡教育"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 46163
   },
   {
-    "offerId": 46440,
-    "sortNumber": 271,
-    "admissionTotalNumber": 1,
+    "sortNumber": 273,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -10856,12 +10924,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "爱博"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 46440
   },
   {
-    "offerId": 44674,
-    "sortNumber": 272,
-    "admissionTotalNumber": 60,
+    "sortNumber": 274,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -10899,12 +10967,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 60,
+    "offerId": 44674
   },
   {
-    "offerId": 48082,
-    "sortNumber": 273,
-    "admissionTotalNumber": 10,
+    "sortNumber": 275,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -10943,12 +11011,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 11,
+    "offerId": 48082
   },
   {
-    "offerId": 48827,
-    "sortNumber": 274,
-    "admissionTotalNumber": 12,
+    "sortNumber": 276,
     "college": {
       "countClick": 0,
       "cityId": 10001,
@@ -10987,12 +11055,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "澳盛教育"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 48827
   },
   {
-    "offerId": 48709,
-    "sortNumber": 275,
-    "admissionTotalNumber": 35,
+    "sortNumber": 277,
     "college": {
       "countClick": 0,
       "cityId": 10001,
@@ -11032,12 +11100,12 @@
       "auditStatus": 5,
       "gotScore": 100,
       "createUser": "澳盛教育"
-    }
+    },
+    "admissionTotalNumber": 35,
+    "offerId": 48709
   },
   {
-    "offerId": 48743,
-    "sortNumber": 276,
-    "admissionTotalNumber": 3,
+    "sortNumber": 278,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11076,12 +11144,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "青岛哥伦引领"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 48743
   },
   {
-    "offerId": 49008,
-    "sortNumber": 277,
-    "admissionTotalNumber": 9,
+    "sortNumber": 279,
     "college": {
       "countClick": 0,
       "cityId": 10001,
@@ -11120,12 +11188,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "重庆育才学校"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 49008
   },
   {
-    "offerId": 49282,
-    "sortNumber": 278,
-    "admissionTotalNumber": 2,
+    "sortNumber": 280,
     "college": {
       "countClick": 0,
       "cityId": 10004,
@@ -11165,12 +11233,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "ZOOMiN"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 49282
   },
   {
-    "offerId": 49570,
-    "sortNumber": 279,
-    "admissionTotalNumber": 66,
+    "sortNumber": 281,
     "college": {
       "countClick": 0,
       "cityId": 10001,
@@ -11210,12 +11278,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "关自翔"
-    }
+    },
+    "admissionTotalNumber": 69,
+    "offerId": 49570
   },
   {
-    "offerId": 49407,
-    "sortNumber": 280,
-    "admissionTotalNumber": 9,
+    "sortNumber": 282,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11254,12 +11322,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "邹春凤"
-    }
+    },
+    "admissionTotalNumber": 10,
+    "offerId": 49407
   },
   {
-    "offerId": 49430,
-    "sortNumber": 281,
-    "admissionTotalNumber": 12,
+    "sortNumber": 283,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11299,12 +11367,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "邹春凤"
-    }
+    },
+    "admissionTotalNumber": 12,
+    "offerId": 49430
   },
   {
-    "offerId": 50104,
-    "sortNumber": 282,
-    "admissionTotalNumber": 5,
+    "sortNumber": 284,
     "college": {
       "countClick": 0,
       "cityId": 10004,
@@ -11344,12 +11412,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "ZOOMiN"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 50104
   },
   {
-    "offerId": 52964,
-    "sortNumber": 283,
-    "admissionTotalNumber": 6,
+    "sortNumber": 285,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11388,12 +11456,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "邹春凤"
-    }
+    },
+    "admissionTotalNumber": 7,
+    "offerId": 52964
   },
   {
-    "offerId": 52099,
-    "sortNumber": 284,
-    "admissionTotalNumber": 1,
+    "sortNumber": 286,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11432,12 +11500,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "爱博"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 52099
   },
   {
-    "offerId": 52247,
-    "sortNumber": 285,
-    "admissionTotalNumber": 4,
+    "sortNumber": 287,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11476,12 +11544,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "领藤"
-    }
+    },
+    "admissionTotalNumber": 5,
+    "offerId": 52247
   },
   {
-    "offerId": 59604,
-    "sortNumber": 286,
-    "admissionTotalNumber": 1,
+    "sortNumber": 288,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11519,12 +11587,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "ivylabs"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 59604
   },
   {
-    "offerId": 53989,
-    "sortNumber": 287,
-    "admissionTotalNumber": 3,
+    "sortNumber": 289,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11562,12 +11630,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "普加斯"
-    }
+    },
+    "admissionTotalNumber": 4,
+    "offerId": 53989
   },
   {
-    "offerId": 54683,
-    "sortNumber": 288,
-    "admissionTotalNumber": 1,
+    "sortNumber": 290,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11605,12 +11673,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "融尚南希"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54683
   },
   {
-    "offerId": 54684,
-    "sortNumber": 289,
-    "admissionTotalNumber": 1,
+    "sortNumber": 291,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11648,12 +11716,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "融尚南希"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 54684
   },
   {
-    "offerId": 59203,
-    "sortNumber": 290,
-    "admissionTotalNumber": 1,
+    "sortNumber": 292,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11692,12 +11760,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "普加斯"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 59203
   },
   {
-    "offerId": 58750,
-    "sortNumber": 291,
-    "admissionTotalNumber": 2,
+    "sortNumber": 293,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11735,12 +11803,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "澳盛教育"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 58750
   },
   {
-    "offerId": 61260,
-    "sortNumber": 292,
-    "admissionTotalNumber": 1,
+    "sortNumber": 294,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11778,12 +11846,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "xuneducation"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 61260
   },
   {
-    "offerId": 58830,
-    "sortNumber": 293,
-    "admissionTotalNumber": 1,
+    "sortNumber": 295,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11823,12 +11891,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "Ethos"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 58830
   },
   {
-    "offerId": 59725,
-    "sortNumber": 294,
-    "admissionTotalNumber": 9,
+    "sortNumber": 296,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11864,12 +11932,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 9,
+    "offerId": 59725
   },
   {
-    "offerId": 59724,
-    "sortNumber": 295,
-    "admissionTotalNumber": 2,
+    "sortNumber": 297,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11905,12 +11973,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 2,
+    "offerId": 59724
   },
   {
-    "offerId": 59288,
-    "sortNumber": 296,
-    "admissionTotalNumber": 3,
+    "sortNumber": 298,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11946,12 +12014,12 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "张少噗"
-    }
+    },
+    "admissionTotalNumber": 3,
+    "offerId": 59288
   },
   {
-    "offerId": 60177,
-    "sortNumber": 297,
-    "admissionTotalNumber": 1,
+    "sortNumber": 299,
     "college": {
       "countClick": 0,
       "cityId": 10000,
@@ -11989,6 +12057,51 @@
       "auditStatus": 5,
       "gotScore": 10,
       "createUser": "澳盛教育"
-    }
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 60177
+  },
+  {
+    "sortNumber": 300,
+    "college": {
+      "countClick": 0,
+      "cityId": 10000,
+      "lastUpdateUid": 966,
+      "type": 2,
+      "countShare": 0,
+      "rankWeight": 0,
+      "inOut": 1,
+      "svIsOnline": "已上线",
+      "id": 10887,
+      "createUid": 966,
+      "countMsg": 0,
+      "titleSort": "西蒙菲莎大学",
+      "provinceId": 10000,
+      "ranks": 1,
+      "titleEn": "Simon\t Fraser University",
+      "svLevelTitle": "普通组织",
+      "countryName": "加拿大",
+      "isBoarding": 0,
+      "svCityName": "不适用",
+      "lastUpdateTime": "2022-04-02 17:13:38",
+      "svTypeTitle": "大学",
+      "countFollow": 0,
+      "isOnline": 6,
+      "title": "西蒙菲莎大学",
+      "countryId": 9,
+      "vipLevel": 1,
+      "isPublic": 1,
+      "svAuditName": "已通过",
+      "countGood": 0,
+      "createComId": 404,
+      "updateUser": "普加斯",
+      "svProvinceName": "不适用",
+      "createTime": "2022-04-02 17:12:54",
+      "auditStatus": 5,
+      "gotScore": 10,
+      "createUser": "普加斯"
+    },
+    "admissionTotalNumber": 1,
+    "offerId": 61448
   }
 ]

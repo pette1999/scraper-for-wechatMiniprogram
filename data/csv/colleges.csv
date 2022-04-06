@@ -1,113 +1,113 @@
 rank#,admissionTotalNumber,大学,University,isPiublic,website
-1,30,普林斯顿大学,Princeton University,0,http://www.megoal.org/Princeton-University
+1,32,普林斯顿大学,Princeton University,0,http://www.megoal.org/Princeton-University
 2,17,哈佛大学,Harvard University,0,http://www.megoal.org/Harvard-University
-3,51,哥伦比亚大学,Columbia University in the City of New York,0,http://www.megoal.org/Columbia-University
+3,53,哥伦比亚大学,Columbia University in the City of New York,0,http://www.megoal.org/Columbia-University
 4,26,麻省理工学院,Massachusetts Institute of Technology,0,http://www.megoal.org/Massachusetts-Institute-of-Technology
-5,32,耶鲁大学,Yale University,0,http://www.megoal.org/Yale-University
+5,31,耶鲁大学,Yale University,0,http://www.megoal.org/Yale-University
 6,69,芝加哥大学,University of Chicago,0,http://www.megoal.org/University-of-Chicago
-7,46,斯坦福大学,Stanford University,0,http://www.megoal.org/Stanford-University
-8,59,宾夕法尼亚大学,University of Pennsylvania,0,http://www.megoal.org/University-of-Pennsylvania
-9,68,杜克大学,Duke University,0,http://www.megoal.org/Duke-University
+7,48,斯坦福大学,Stanford University,0,http://www.megoal.org/Stanford-University
+8,60,宾夕法尼亚大学,University of Pennsylvania,0,http://www.megoal.org/University-of-Pennsylvania
+9,70,杜克大学,Duke University,0,http://www.megoal.org/Duke-University
 10,50,西北大学,Northwestern University,0,http://www.megoal.org/Northwestern-University
-11,107,约翰霍普金斯大学,Johns Hopkins University,0,http://www.megoal.org/Johns-Hopkins-University
+11,110,约翰霍普金斯大学,Johns Hopkins University,0,http://www.megoal.org/Johns-Hopkins-University
 12,8,加州理工学院,California Institute of Technology,0,
-13,29,达特茅斯学院,Dartmouth College,0,http://www.megoal.org/Dartmouth-College
-14,46,布朗大学,Brown University,0,http://www.megoal.org/Brown-University
-15,109,范德堡大学,Vanderbilt University,0,http://www.megoal.org/Vanderbilt-University
+13,30,达特茅斯学院,Dartmouth College,0,http://www.megoal.org/Dartmouth-College
+14,47,布朗大学,Brown University,0,http://www.megoal.org/Brown-University
+15,111,范德堡大学,Vanderbilt University,0,http://www.megoal.org/Vanderbilt-University
 16,185,圣路易斯华盛顿大学,Washington University in St.Louis,0,http://www.megoal.org/Washington-University-in-St-Louis
-17,134,康奈尔大学,Cornell University,0,http://www.megoal.org/Cornell-University
-18,111,莱斯大学,Rice University,0,http://www.megoal.org/Rice-University
+17,136,康奈尔大学,Cornell University,0,http://www.megoal.org/Cornell-University
+18,113,莱斯大学,Rice University,0,http://www.megoal.org/Rice-University
 19,26,圣母大学,University of Notre Dame,0,http://www.megoal.org/University-of-Notre-Dame
 20,249,加州大学洛杉矶分校,"University of California, Los Angeles",0,http://www.megoal.org/University-of-California_Los-Angeles
-21,269,加州大学伯克利分校,"University of California, Berkeley",0,http://www.megoal.org/University-of-California_Berkeley
+21,274,加州大学伯克利分校,"University of California, Berkeley",0,http://www.megoal.org/University-of-California_Berkeley
 22,158,埃默里大学,Emory University,0,http://www.megoal.org/Emory-University
-23,50,乔治城大学,Georgetown University,0,http://www.megoal.org/Georgetown-University
-24,110,密歇根大学安娜堡分校,"University of Michigan, Ann Arbor",0,http://www.megoal.org/University-of-Michigan_Ann-Arbor
-25,181,弗吉尼亚大学,University of Virginia,0,http://www.megoal.org/University-of-Virginia
-26,219,卡耐基梅隆大学,Carnegie Mellon University,0,http://www.megoal.org/Carnegie-Mellon-University
-27,293,南加州大学,University of Southern California,0,http://www.megoal.org
-28,62,塔夫茨大学,Tufts University,0,http://www.megoal.org/Tufts-University
-29,45,维克森林大学,Wake Forest University,0,http://www.megoal.org/Wake-Forest-University
-30,236,北卡罗来纳州大学教堂山分校,University of North Carolina at Chapel,0,http://www.megoal.org
-31,642,纽约大学,New York University,0,http://www.megoal.org/New-York-University
-32,549,加州大学圣塔芭芭拉分校,University of California-Santa Barbara,0,
-33,69,佛罗里达大学,University of Florida,0,
+23,51,乔治城大学,Georgetown University,0,http://www.megoal.org/Georgetown-University
+24,116,密歇根大学安娜堡分校,"University of Michigan, Ann Arbor",0,http://www.megoal.org/University-of-Michigan_Ann-Arbor
+25,184,弗吉尼亚大学,University of Virginia,0,http://www.megoal.org/University-of-Virginia
+26,220,卡耐基梅隆大学,Carnegie Mellon University,0,http://www.megoal.org/Carnegie-Mellon-University
+27,301,南加州大学,University of Southern California,0,http://www.megoal.org
+28,64,塔夫茨大学,Tufts University,0,http://www.megoal.org/Tufts-University
+29,46,维克森林大学,Wake Forest University,0,http://www.megoal.org/Wake-Forest-University
+30,246,北卡罗来纳州大学教堂山分校,University of North Carolina at Chapel,0,http://www.megoal.org
+31,655,纽约大学,New York University,0,http://www.megoal.org/New-York-University
+32,584,加州大学圣塔芭芭拉分校,University of California-Santa Barbara,0,
+33,71,佛罗里达大学,University of Florida,0,
 34,27,纽约大学商学院,NYU Stern School of Business,0,
-35,10,纽约大学帝势学院,"Tisch School of the Arts,New York University",0,
+35,11,纽约大学帝势学院,"Tisch School of the Arts,New York University",0,
 36,18,威廉姆斯学院,Williams College,0,http://www.megoal.org/Williams-College
 37,10,阿默斯特学院,Amherst College,0,http://www.megoal.org/Amherst-College
 38,31,斯沃斯莫尔学院,Swarthmore College,0,
 39,16,波莫纳学院,Pomona College,0,
-40,40,威尔斯利学院,Wellesley College,0,http://www.megoal.org/Wellesley-College
+40,41,威尔斯利学院,Wellesley College,0,http://www.megoal.org/Wellesley-College
 41,8,鲍登学院,Bowdoin College,0,http://www.megoal.org/Bowdoin-College
 42,18,克莱蒙特·麦肯纳学院,Claremont Mckenna College,0,http://www.megoal.org/Claremont-McKenna-College
 43,42,明德学院,Middlebury College,0,http://www.megoal.org/Middlebury-College
 44,28,卡尔顿学院,Carleton College,0,
 45,193,牛津大学,Oxford University,0,
-46,212,剑桥大学,Cambridge University,0,
-47,19,伦敦政治经济学院,The London School of Economics and Political Science,0,
+46,213,剑桥大学,Cambridge University,0,
+47,20,伦敦政治经济学院,The London School of Economics and Political Science,0,
 48,181,帝国理工学院,Imperial College London,0,
-49,254,伦敦大学学院,University College London,0,
+49,277,伦敦大学学院,University College London,0,
 50,22,罗德岛设计学院,Rhode Island School of Design,0,http://www.megoal.org
 51,24,帕森斯设计学院,Parsons School of Design,0,http://www.megoal.org/Parsons-School-for-Design
-52,32,芝加哥艺术学院,School of the Art Institute of Chicago,0,
+52,33,芝加哥艺术学院,School of the Art Institute of Chicago,0,
 53,31,普瑞特艺术学院,Pratt Institute,0,http://www.megoal.org/Pratt-Institute_Main
 54,29,加州艺术学院,California College of the Arts,0,
 55,23,视觉艺术学校,School of Visual Arts,0,http://www.megoal.org/Art-Center-College-of-Design
-56,149,罗彻斯特大学,University of Rochester,0,http://www.megoal.org/University-of-Rochester
-57,192,加州大学圣地亚哥分校,University of California-San Diego,0,http://www.megoal.org/University-of-California_San-Diego
-58,93,波士顿学院,Boston College,0,http://www.megoal.org/Boston-College
-59,245,加州大学欧文分校,University of California Irvine,0,http://www.megoal.org/University-of-California-Irvine
-60,46,威廉玛丽学院,College of William and Mary,0,http://www.megoal.org/College-of-William-and-Mary
-61,75,佐治亚理工学院,Georgia Institute of Technology,0,http://www.megoal.org/Georgia-Institute-of-Technology_-(Georgia-Tech)
-62,567,加州大学戴维斯分校,"University of California, Davis",0,
-63,18,德克萨斯大学奥斯汀分校,University of Texas at Austin,0,https://www.utexas.edu/
-64,80,凯斯西储大学,Case Western Reserve University,0,http://www.megoal.org/Case-Western-Reserve-University
-65,288,波士顿大学,Boston University,0,http://www.megoal.org/Boston-University
+56,151,罗彻斯特大学,University of Rochester,0,http://www.megoal.org/University-of-Rochester
+57,197,加州大学圣地亚哥分校,University of California-San Diego,0,http://www.megoal.org/University-of-California_San-Diego
+58,94,波士顿学院,Boston College,0,http://www.megoal.org/Boston-College
+59,251,加州大学欧文分校,University of California Irvine,0,http://www.megoal.org/University-of-California-Irvine
+60,47,威廉玛丽学院,College of William and Mary,0,http://www.megoal.org/College-of-William-and-Mary
+61,78,佐治亚理工学院,Georgia Institute of Technology,0,http://www.megoal.org/Georgia-Institute-of-Technology_-(Georgia-Tech)
+62,583,加州大学戴维斯分校,"University of California, Davis",0,
+63,20,德克萨斯大学奥斯汀分校,University of Texas at Austin,0,https://www.utexas.edu/
+64,81,凯斯西储大学,Case Western Reserve University,0,http://www.megoal.org/Case-Western-Reserve-University
+65,299,波士顿大学,Boston University,0,http://www.megoal.org/Boston-University
 66,12,杜兰大学,Tulane University of Louisiana,0,http://www.megoal.org/Tulane-University-of-Louisiana
-67,99,布兰迪斯大学,Brandeis University,0,http://www.megoal.org/Brandeis-University
-68,183,威斯康星大学麦迪逊分校,University of Wisconsin-Madison,0,
-69,617,伊利诺伊大学香槟分校,University of Illinois at Urbana-Champaign,0,
+67,100,布兰迪斯大学,Brandeis University,0,http://www.megoal.org/Brandeis-University
+68,186,威斯康星大学麦迪逊分校,University of Wisconsin-Madison,0,
+69,626,伊利诺伊大学香槟分校,University of Illinois at Urbana-Champaign,0,
 70,7,佐治亚大学,University of Georgia,0,http://www.megoal.org/University-of-Georgia
-71,251,东北大学,Northeastern University,0,http://www.megoal.org/Northeastern-University
+71,259,东北大学,Northeastern University,0,http://www.megoal.org/Northeastern-University
 72,20,理海大学,Lehigh University,0,http://www.megoal.org/Lehigh-University
-73,360,俄亥俄州立大学,Ohio State University,0,http://www.megoal.org/Ohio-State-University
-74,60,普渡大学,"Purdue University, West Lafayette",0,
+73,362,俄亥俄州立大学,Ohio State University,0,http://www.megoal.org/Ohio-State-University
+74,61,普渡大学,"Purdue University, West Lafayette",0,
 75,29,佩珀代因大学,Pepperdine University,0,
 76,8,维拉诺瓦大学,Villanova University,0,https://www1.villanova.edu/university.html
 77,3,华盛顿与李大学,Washington and Lee University,0,
-78,20,格林内尔学院,Grinnell College,0,http://www.megoal.org/Grinnell-College
+78,21,格林内尔学院,Grinnell College,0,http://www.megoal.org/Grinnell-College
 79,15,汉密尔顿学院,Hamilton College,0,http://www.megoal.org/Hamilton-College
-80,15,戴维森学院,Davidson College,0,
+80,16,戴维森学院,Davidson College,0,
 81,20,哈弗福德学院,Haverford College,0,http://www.megoal.org/Haverford-College
 82,14,科尔比学院,Colby College,0,http://www.megoal.org/Colby-College
 83,27,史密斯学院,Smith College,0,http://www.megoal.org/Smith-College
 84,26,维思大学,Wesleyan University,0,http://www.megoal.org/Wesleyan-University
 85,4,巴纳德学院,Barnard College,0,http://www.megoal.org/Barnard-College
-86,47,科尔盖特大学,Colgate University,0,http://www.megoal.org/Colgate-University
+86,46,科尔盖特大学,Colgate University,0,http://www.megoal.org/Colgate-University
 87,41,里士满大学,University of Richmond,0,http://www.megoal.org/University-of-Richmond
 88,23,瓦萨学院,Vassar College,0,http://www.megoal.org/Vassar-College
 89,12,贝茨学院,Bates College,0,http://www.megoal.org/Bates-College
 90,15,科罗拉多学院,Colorado College,0,
 91,5,玛卡莱斯特学院,Macalester College,0,http://www.megoal.org/Macalester-College
 92,11,哈维穆德学院,Harvey Mudd College,0,http://www.megoal.org/Harvey-Mudd-College
-93,31,曼荷莲学院,Mount Holyoke College,0,http://www.megoal.org/Mount-Holyoke-College
-94,38,凯尼恩学院,Kenyon College,0,
+93,34,曼荷莲学院,Mount Holyoke College,0,http://www.megoal.org/Mount-Holyoke-College
+94,39,凯尼恩学院,Kenyon College,0,
 95,28,布林茅尔学院,Bryn Mawr College,0,https://www.brynmawr.edu/
 96,3,斯克利普斯学院,Scripps College,0,
 97,40,伦斯勒理工学院,Rensselaer Polytechnic Institute,0,http://www.megoal.org/Rensselaer-Polytechnic-Institute
-98,13,迈阿密大学,University of Miami,0,http://www.megoal.org/University-of-Miami
+98,14,迈阿密大学,University of Miami,0,http://www.megoal.org/University-of-Miami
 99,37,圣塔克拉拉大学,Santa Clara University,0,
 100,64,匹兹堡大学,University of Pittsburgh,0,
-101,85,雪城大学,Syracuse University,0,http://www.megoal.org/Syracuse-University
-102,39,华盛顿大学,University of Washington,0,
-103,14,马里兰大学,University of Maryland,0,
-104,19,乔治·华盛顿大学,The George Washington University,0,http://www.megoal.org/George-Washington-University
-105,53,罗格斯大学,Rutgers University,0,
-106,69,康涅狄格大学,University of Connecticut,0,
-107,65,宾州州立大学帕克分校,"Pennsylvania State University, University Park",0,
+101,90,雪城大学,Syracuse University,0,http://www.megoal.org/Syracuse-University
+102,41,华盛顿大学,University of Washington,0,
+103,15,马里兰大学,University of Maryland,0,
+104,20,乔治·华盛顿大学,The George Washington University,0,http://www.megoal.org/George-Washington-University
+105,55,罗格斯大学,Rutgers University,0,
+106,70,康涅狄格大学,University of Connecticut,0,
+107,67,宾州州立大学帕克分校,"Pennsylvania State University, University Park",0,
 108,12,伍斯特理工学院,Worcester Polytechnic Institute,0,https://www.wpi.edu/
-109,63,福特汉姆大学,Fordham University,0,http://www.megoal.org/Fordham-University
+109,64,福特汉姆大学,Fordham University,0,http://www.megoal.org/Fordham-University
 110,49,马塞诸塞大学安姆斯特分校,"University of Massachusetts, Amherst",0,
 111,48,印第安纳大学伯明顿分校,Indiana University Bloomington,0,
 112,1,南卫理公会大学,Southern Methodist University,0,
@@ -119,10 +119,10 @@ rank#,admissionTotalNumber,大学,University,isPiublic,website
 118,2,北卡罗莱纳州立大学,North Carolina State University,0,
 119,6,美利坚大学,American University,0,
 120,2,贡萨加大学,Gonzaga University,0,
-121,65,密歇根州立大学,Michigan State University,0,http://www.megoal.org/Michigan-State-University
+121,66,密歇根州立大学,Michigan State University,0,http://www.megoal.org/Michigan-State-University
 122,6,爱荷华大学,University of Iowa,0,http://www.megoal.org/University-of-Iowa
 123,1,斯蒂文斯理工学院,Stevens Institute of Technology,0,https://www.stevens.edu/
-124,54,加州大学河滨分校,"University of California, Riverside",0,
+124,56,加州大学河滨分校,"University of California, Riverside",0,
 125,11,纽约州立大学宾汉姆顿分校,SUNY Binghamton,0,
 126,13,纽约州立大学石溪分校,Stony Brook University--SUNY,0,
 127,18,纽约州立大学布法罗分校,University at Buffalo SUNY,0,
@@ -131,26 +131,26 @@ rank#,admissionTotalNumber,大学,University,isPiublic,website
 130,4,俄勒冈大学,University of Oregon,0,
 131,7,圣十字学院,College of the Holy Cross,0,http://www.megoal.org/College-of-the-Holy-Cross
 132,7,匹泽学院,Pitzer College,0,
-133,13,欧柏林学院,Oberlin College,0,http://www.megoal.org/Oberlin-College
-134,15,斯基德莫尔学院,Skidmore College,0,http://www.megoal.org/Skidmore-College
+133,17,欧柏林学院,Oberlin College,0,http://www.megoal.org/Oberlin-College
+134,18,斯基德莫尔学院,Skidmore College,0,http://www.megoal.org/Skidmore-College
 135,13,拉法耶特学院,Lafayette College,0,
-136,7,巴克内尔大学,Bucknell University,0,
+136,8,巴克内尔大学,Bucknell University,0,
 137,11,惠特曼学院,Whitman College,0,
-138,34,富兰克林马歇尔学院,Franklin and Marshall College,0,
-139,14,丹尼森大学,Denison University,0,
+138,38,富兰克林马歇尔学院,Franklin and Marshall College,0,
+139,15,丹尼森大学,Denison University,0,
 140,3,西方学院,Occidental College,0,
 141,2,福尔曼大学,Furman University,0,http://www.megoal.org/Furman-University
 142,6,三一学院,Trinity College,0,
 143,8,迪堡大学,DePauw University,0,
-144,4,联合学院,Union College,0,
+144,5,联合学院,Union College,0,
 145,2,南方大学,The University of the South,0,
-146,9,狄金森学院,Dickinson College,0,
+146,10,狄金森学院,Dickinson College,0,
 147,2,康涅狄格学院,Connecticut College,0,
 148,5,巴德学院,Bard College,0,http://www.megoal.org/Bard-College
 149,28,罗斯－豪曼理工学院,Rose-Hulman Institute of Technology,0,
-150,73,爱默生学院,Emerson College,0,
+150,74,爱默生学院,Emerson College,0,
 151,25,巴布森学院,Babson College,0,
-152,7,亚利桑那州立大学,"Arizona State University, Tempe",0,http://www.megoal.org/Arizona-State-University
+152,8,亚利桑那州立大学,"Arizona State University, Tempe",0,http://www.megoal.org/Arizona-State-University
 153,4,宾汉姆顿大学,Binghamton University SUNY,0,http://www.megoal.org/SUNY__Binghamton
 154,6,马里兰艺术学院,Maryland Institute College of Art,0,http://www.megoal.org/Maryland-Institute-College-of-Art
 155,3,德雷塞尔大学,Drexel University,0,http://www.megoal.org/Drexel-University
@@ -158,47 +158,47 @@ rank#,admissionTotalNumber,大学,University,isPiublic,website
 157,2,密涅瓦大学,Minerva Schools at KGI,0,
 158,1,库伯联盟学院,The Cooper Union for the Advancement of Science and Art,0,
 159,8,伯克利音乐学院,Berklee College of Music,0,
-160,41,加州大学圣克鲁兹校区,"University of California, Santa Cruz",0,
+160,43,加州大学圣克鲁兹校区,"University of California, Santa Cruz",0,
 161,2,迈阿密大学牛津分校,"Miami University, Oxford",0,
 162,4,本特利大学,Bentley University,0,
 163,1,贝洛伊特学院,Beloit College,0,
 164,1,诺克斯学院,Knox College,0,
-165,70,爱丁堡大学,The University of Edinburgh,0,
-166,99,华威大学,The University of Warwick,0,
+165,71,爱丁堡大学,The University of Edinburgh,0,
+166,100,华威大学,The University of Warwick,0,
 167,12,纽约大学阿布扎比分校,New York University Abu Dhabi,0,
-168,47,圣安德鲁斯大学,University of St Andrews,0,
-169,97,杜伦大学,Durham University,0,
-170,217,曼彻斯特大学,The University of Manchester,0,
-171,384,多伦多大学,University of Toronto,0,
+168,48,圣安德鲁斯大学,University of St Andrews,0,
+169,100,杜伦大学,Durham University,0,
+170,221,曼彻斯特大学,The University of Manchester,0,
+171,394,多伦多大学,University of Toronto,0,
 172,9,拉夫堡大学,Loughborough University,0,
-173,58,利兹大学,The University of Leeds,0,
+173,59,利兹大学,The University of Leeds,0,
 174,35,格拉斯哥大学,University of Glasgow,0,
 175,1,伦敦大学皇家霍洛威学院,Royal Holloway University of London,0,
-176,43,南安普顿大学,University of Southampton,0,
-177,50,谢菲尔德大学,The University of Sheffield,0,
+176,44,南安普顿大学,University of Southampton,0,
+177,51,谢菲尔德大学,The University of Sheffield,0,
 178,6,纽卡斯尔大学,Newcastle University,0,
 179,6,利物浦大学,University of Liverpool,0,
-180,29,伦敦大学国王学院,King's College London,0,
+180,34,伦敦大学国王学院,King's College London,0,
 181,8,卡迪夫大学,Cardiff University,0,
 182,2,雷丁大学,University of Reading,0,
 183,3,巴斯大学,University of Bath,0,
 184,45,布里斯托大学,University of Bristol,0,
 185,8,艺术中心设计学院,Art Center College of Design,0,
-186,21,兰卡斯特大学,Lancaster University,0,
-187,62,伯明翰大学,University of Birmingham,0,
-188,22,约克大学,University of York,0,
+186,22,兰卡斯特大学,Lancaster University,0,
+187,66,伯明翰大学,University of Birmingham,0,
+188,23,约克大学,University of York,0,
 189,2,莱斯特大学,University of Leicester,0,
 190,4,埃塞克斯大学,University of Essex,0,
 191,1,瑞林艺术设计学院,Ringling College of Art & Design,0,
 192,1,罗格斯大学纽瓦克分校,"Rutgers, the State University of New Jersey-Newark",0,
-193,23,不列颠哥伦比亚大学,The University of British Columbia,0,
-194,2,莎拉劳伦斯学院,Sarah Lawrence College,0,
+193,26,不列颠哥伦比亚大学,The University of British Columbia,0,
+194,3,莎拉劳伦斯学院,Sarah Lawrence College,0,
 195,5,斯基德摩尔学院,Skidmore College,0,
 196,12,麦卡利斯特学院,Macalester College,0,
 197,1,奥蒂斯艺术设计学院,Otis College of Art and Design,0,
 198,10,萨凡纳艺术与设计学院,Savannah College of Art and Design,0,
-199,135,华盛顿大学西雅图校区,University of Washington，Seattle,0,
-200,88,悉尼大学,The University of Sydney,0,
+199,137,华盛顿大学西雅图校区,University of Washington，Seattle,0,
+200,90,悉尼大学,The University of Sydney,0,
 201,26,新南威尔士大学,The University of New South Wales,0,
 202,11,蒙纳士大学,Monash University,0,
 203,19,西北大学卡塔尔分校,Northwestern University in Qatar,0,
@@ -216,7 +216,7 @@ rank#,admissionTotalNumber,大学,University,isPiublic,website
 215,2,中佛罗里达大学,University of Central Florida,0,
 216,1,肯塔基大学,University of Kentucky,0,
 217,1,科罗拉多州立大学,Colorado State University,0,
-218,10,亚利桑那大学,University of Arizona,0,
+218,11,亚利桑那大学,University of Arizona,0,
 219,1,东伊利诺伊大学,Eastern Illinois University,0,
 220,2,加州州立大学洛杉矶分校,"California State University, Los Angeles",0,
 221,1,加州州立理工大学,"California Polytechnic State University, San Luis Obispo",0,
@@ -228,7 +228,7 @@ rank#,admissionTotalNumber,大学,University,isPiublic,website
 227,1,东华盛顿大学,Eastern Washington University,0,
 228,2,伊利诺伊理工大学,Illinois Institute of Technology,0,
 229,2,盖茨堡学院,Gettysburg College,0,
-230,166,宾州州立大学,Pennsylvania State University,0,
+230,170,宾州州立大学,Pennsylvania State University,0,
 231,1,纽约市立大学,CUNY New York City College of Technology,0,
 232,6,旧金山大学,University of San Francisco,0,
 233,1,圣奥拉夫学院,St. Olaf College,0,
@@ -236,63 +236,66 @@ rank#,admissionTotalNumber,大学,University,isPiublic,website
 235,3,威斯敏斯特学院,Westminster College,0,
 236,3,艾格尼丝斯科特学院,Agnes Scott College,0,
 237,1,德保罗大学,DePaul University,0,
-238,1,南弗吉尼亚大学,Southern Virginia University,0,
+238,2,南弗吉尼亚大学,Southern Virginia University,0,
 239,1,石溪大学,Stony Brook University,0,
-240,23,加州大学默塞德分校,"University of California, Merced",0,
-241,1,东康涅狄格州立大学,Eastern Connecticut State University,0,
-242,1,埃默里-亨利学院,Emory & Henry College,0,
-243,1,宾州印第安纳大学,Indiana University of Pennsylvania,0,
-244,1,肯特州立大学,Kent State University,0,
-245,3,宾夕法尼亚州立大学贝伦德分校,Penn State Behrend,0,
-246,2,匹兹堡大学格林斯堡分校,University of Pittsburgh at Greensburg,0,
-247,1,威斯康辛大学史帝文分校,University of Wisconsin-Stevens Point,0,
-248,2,卫斯理学院,Wesley College,0,
-249,5,卫斯理安学院,Wesleyan College,0,
-250,2,旧金山艺术大学,Academy of Art University,0,
-251,1,阿勒格尼学院,Allegheny College,0,
-252,2,康考迪亚大学威斯康星分校,Concordia University Wisconsin,0,
-253,1,迪恩学院,Dean College,0,
-254,1,莫瑞麦克学院,Merrimack College,0,
-255,1,宾州州立大学阿尔图纳校区,Penn State Altoona,0,
-256,1,纽约州立大学奥尔巴尼分校,SUNY Albany,0,
-257,1,三一大学,Trinity University,0,
-258,6,明尼苏达大学罗切斯特大学,University of Minnesota-Rochester,0,
-259,1,新罕布什尔大学曼彻斯特分校,University of New Hampshire at Manchester,0,
-260,1,韦尔斯学院,Wells College,0,
-261,1,基石大学,Cornerstone University,0,
-262,1,加拿大阿尔伯塔大学,,0,
-263,40,麦吉尔大学,McGill University,0,
-264,1,加州艺术学院（CAL Arts）,California Institute of the Arts,0,
-265,1,埃克塞特大学,University of Exeter,0,
-266,2,韦仕敦大学,Western University,0,
-267,8,滑铁卢大学,University of Waterloo,0,
-268,4,伦敦大学金史密斯学院,"Goldsmiths, University of London",0,
-269,3,罗斯-霍曼理工学院,Rose-Hulman Institute of Technology,0,
-270,1,宾州艺术学院,Pennsylvania Academy of the Fine Arts,0,
-271,1,肯特大学,University of Kent,1,
-272,60,墨尔本大学,The University of Melbourne,1,
-273,10,渥太华大学	,University of Ottawa,1,
-274,12,香港理工大学,Hong Kong Polytechnic University,1,
-275,35, 香港科技大学,The Hong Kong University of Science and Technology,1,
-276,3,美国MI现代音乐学院,MI College of Contemporary Music,0,
-277,9,香港中文大学,The Chinese University of Hong Kong,1,
-278,2,圣约翰学院,St.John's College,0,
-279,66,香港大学,The University of Hong Kong ,1,
-280,9,阿姆斯特丹大学,University of Amsterdam,1,
-281,12,昆士兰大学,University of Queensland,1,
-282,5,麦克马斯特大学,McMaster University,1,
-283,6,西安大略大学,Western University,1,
-284,1,萨里大学,University of Surrey,1,
-285,4,女王大学,Queen's University,1,
-286,1,瑞格林艺术与设计学院 ,Ringling College of Art and Design,0,
-287,3,瑞士洛桑酒店管理学院,Ecole Hoteliere de Lausanne,1,
-288,1,阿伯丁大学,University of Aberdeen,1,
-289,1,亚伯大学,Aberystwyth University,1,
-290,1,韦仕敦大学国王大学学院,King's University College at Western University,1,
-291,2,新加坡国立大学,National University of Singapore (NUS),1,
-292,1,立命馆亚洲太平洋大学,APU,0,
-293,1,科尔本音乐学院,The Colburn School,0,
-294,9,哥伦比亚大学-都柏林圣三一学院双学位项目,,0,
-295,2,哥伦比亚大学-巴黎政治学院双学位项目,,0,
-296,3,哥伦比亚大学-特拉维夫大学双学位项目,,0,
-297,1,新英格兰音乐学院,New England Conservatory,0,
+240,24,加州大学默塞德分校,"University of California, Merced",0,
+241,1,佛蒙特大学,University of Vermont,0,
+242,1,东康涅狄格州立大学,Eastern Connecticut State University,0,
+243,1,埃默里-亨利学院,Emory & Henry College,0,
+244,1,宾州印第安纳大学,Indiana University of Pennsylvania,0,
+245,1,肯特州立大学,Kent State University,0,
+246,3,宾夕法尼亚州立大学贝伦德分校,Penn State Behrend,0,
+247,2,匹兹堡大学格林斯堡分校,University of Pittsburgh at Greensburg,0,
+248,1,威斯康辛大学史帝文分校,University of Wisconsin-Stevens Point,0,
+249,3,卫斯理学院,Wesley College,0,
+250,5,卫斯理安学院,Wesleyan College,0,
+251,2,旧金山艺术大学,Academy of Art University,0,
+252,1,阿勒格尼学院,Allegheny College,0,
+253,1,圣文森特山学院,College of Mount Saint Vincent,0,
+254,2,康考迪亚大学威斯康星分校,Concordia University Wisconsin,0,
+255,1,迪恩学院,Dean College,0,
+256,1,莫瑞麦克学院,Merrimack College,0,
+257,1,宾州州立大学阿尔图纳校区,Penn State Altoona,0,
+258,1,纽约州立大学奥尔巴尼分校,SUNY Albany,0,
+259,1,三一大学,Trinity University,0,
+260,6,明尼苏达大学罗切斯特大学,University of Minnesota-Rochester,0,
+261,1,新罕布什尔大学曼彻斯特分校,University of New Hampshire at Manchester,0,
+262,1,韦尔斯学院,Wells College,0,
+263,1,基石大学,Cornerstone University,0,
+264,1,加拿大阿尔伯塔大学,,0,
+265,41,麦吉尔大学,McGill University,0,
+266,1,加州艺术学院（CAL Arts）,California Institute of the Arts,0,
+267,1,埃克塞特大学,University of Exeter,0,
+268,2,韦仕敦大学,Western University,0,
+269,8,滑铁卢大学,University of Waterloo,0,
+270,4,伦敦大学金史密斯学院,"Goldsmiths, University of London",0,
+271,3,罗斯-霍曼理工学院,Rose-Hulman Institute of Technology,0,
+272,2,宾州艺术学院,Pennsylvania Academy of the Fine Arts,0,
+273,1,肯特大学,University of Kent,1,
+274,60,墨尔本大学,The University of Melbourne,1,
+275,11,渥太华大学	,University of Ottawa,1,
+276,12,香港理工大学,Hong Kong Polytechnic University,1,
+277,35, 香港科技大学,The Hong Kong University of Science and Technology,1,
+278,3,美国MI现代音乐学院,MI College of Contemporary Music,0,
+279,9,香港中文大学,The Chinese University of Hong Kong,1,
+280,2,圣约翰学院,St.John's College,0,
+281,69,香港大学,The University of Hong Kong ,1,
+282,10,阿姆斯特丹大学,University of Amsterdam,1,
+283,12,昆士兰大学,University of Queensland,1,
+284,5,麦克马斯特大学,McMaster University,1,
+285,7,西安大略大学,Western University,1,
+286,1,萨里大学,University of Surrey,1,
+287,5,女王大学,Queen's University,1,
+288,1,瑞格林艺术与设计学院 ,Ringling College of Art and Design,0,
+289,4,瑞士洛桑酒店管理学院,Ecole Hoteliere de Lausanne,1,
+290,1,阿伯丁大学,University of Aberdeen,1,
+291,1,亚伯大学,Aberystwyth University,1,
+292,1,韦仕敦大学国王大学学院,King's University College at Western University,1,
+293,2,新加坡国立大学,National University of Singapore (NUS),1,
+294,1,立命馆亚洲太平洋大学,APU,0,
+295,1,科尔本音乐学院,The Colburn School,0,
+296,9,哥伦比亚大学-都柏林圣三一学院双学位项目,,0,
+297,2,哥伦比亚大学-巴黎政治学院双学位项目,,0,
+298,3,哥伦比亚大学-特拉维夫大学双学位项目,,0,
+299,1,新英格兰音乐学院,New England Conservatory,0,
+300,1,西蒙菲莎大学,Simon	 Fraser University,1,
